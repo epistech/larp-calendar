@@ -1,0 +1,4042 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NerdNYC Calendar
+X-WR-TIMEZONE:America/New_York
+X-WR-CALDESC:Game events organized by the mint-quality nerds of NYC. Mostly
+  of the role playing\, board\, card and occasional wargame flavor. More inf
+ o at nerdnyc.com
+BEGIN:VTIMEZONE
+TZID:America/New_York
+X-LIC-LOCATION:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART:20130424T230000Z
+DTEND:20130425T020000Z
+DTSTAMP:20130413T155055Z
+UID:8nne7iri7iv463a5qshsp510b4@google.com
+CREATED:20130412T013808Z
+DESCRIPTION:True Nerd Trivia has moved venues yet again. Come join us at ou
+ r new digs for April's Trivia event!\n\nWe are still working out the time f
+ or that evening\, so stay tuned!\n\nJoin us for a night of nerdy trivia and
+  fun prizes!\n\n\nWhere: Vlada Lounge\, 2nd Floor: 331 West 51st Street\, N
+ YC\nWhen: Wednesday April 24th\nStart time: TBD\nCost: $1 Donations appreci
+ ated\n\nFoghat took home the pie last month...who will be this month's winn
+ er?\n...\nTeam size is limited to 6 players - so choose your companions wis
+ ely! If you need a team - show up and we'll find you some new friends!\n\n*
+ **\n\nFor all you newbies who have yet to experience our brand of Trivia\, 
+ leave your knowledge of state capitals at home! Forget everything you learn
+ ed in high school - we won't be asking you any of that stuff! Instead\, our
+  questions are all about the important things in life\, such as:\n\nGeograp
+ hy: What is the name of the region of Middle Earth where Hobbits live?\nSci
+ ence and Tech: What device will allow a Delorean to travel back in time?\nP
+ arazoology: How long would it take for you to be digested in the belly of t
+ he Sarlaac?\nSuperheroes: When Dick Grayson gets his driver's license - wha
+ t car can he take for a spin?\n\nAnd much much more!!!
+LAST-MODIFIED:20130412T013808Z
+LOCATION:Vlada Lounge\, 2nd Floor: 331 West 51st Street\, NYC
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:True Nerd Trivia
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20130912
+DTEND;VALUE=DATE:20130916
+DTSTAMP:20130413T155055Z
+UID:jsejh997012396hv2gr10gtsts@google.com
+CREATED:20130312T204147Z
+DESCRIPTION:http://wyrdcon.com/
+LAST-MODIFIED:20130312T204413Z
+LOCATION:Hilton Costa Mesa 3050 Bristol Street Costa Mesa\, California 9262
+ 6
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Wyrd Con
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20131004
+DTEND;VALUE=DATE:20131007
+DTSTAMP:20130413T155055Z
+UID:rf9i0brbeib1u0d1f6c1o925ac@google.com
+CREATED:20130312T140334Z
+DESCRIPTION:http://www.bigbadcon.com/
+LAST-MODIFIED:20130312T140447Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Big Bad Con
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20130703
+DTEND;VALUE=DATE:20130708
+DTSTAMP:20130413T155055Z
+UID:9dg66fcjv9ijpp2dvfft7bh4n8@google.com
+CREATED:20130311T182810Z
+DESCRIPTION:http://www.dexposure.com/home.html\n\nDEXCON 16 Information To 
+ Be Posted on March 31\, 2013 (2/27/13) All information for DEXCON 16 will b
+ e posted on Sunday\, March 31\, 2013 - this includes Pre-Registration\, the
+  Event Proposal Form\, and the lineup of 2013 Signature (Q) Events. The sub
+ mission deadline for LARPs will be May 5\, 2013\, and the deadline for all 
+ other events will be June 2\, 2013. The complete schedule of events is expe
+ cted to be posted on Sunday\, June 16\, 2013.
+LAST-MODIFIED:20130311T182936Z
+LOCATION:The Morristown Hyatt & Conference Center Morristown\, New Jersey
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:DexCon 2013
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130328T230000Z
+DTEND:20130329T020000Z
+DTSTAMP:20130413T155055Z
+UID:im80ldrb76qkhaqiliq7bmkfhg@google.com
+CREATED:20130301T171551Z
+DESCRIPTION:It is time for True Nerd Trivia again!\n\nLast month the Sinist
+ er Six took home the pie with an astounding Jack Kirby-themed tie breaking 
+ win! Who will be our next champions?\n\nWhere: The back room of Bar 82\nWhe
+ n: Thursday\, March 28th\nStart time: 7:00pm\nCost: $5 cover charge\n\nTeam
+  size is limited to 6 players - so choose your companions wisely! If you ne
+ ed a team - show up and we'll find you some new friends!\n\nWho will become
+  True Nerd Trivia's next champions and win that pie? Join us and find out!\
+ n\n***\n\nFor all you newbies who have yet to experience our brand of Trivi
+ a\, leave your knowledge of state capitals at home! Forget everything you l
+ earned in high school - we won't be asking you any of that stuff! Instead\,
+  our questions are all about the important things in life\, such as:\n\nGeo
+ graphy: What is the name of the region of Middle Earth where Hobbits live?\
+ nScience and Tech: What device will allow a Delorean to travel back in time
+ ?\nParazoology: How long would it take for you to be digested in the belly 
+ of the Sarlaac?\nSuperheroes: When Dick Grayson gets his driver's license -
+  what car can he take for a spin?\n\nAnd much much more!!!
+LAST-MODIFIED:20130301T171552Z
+LOCATION:BAR 82 136 2nd Ave.\, New York\, New York 10003
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:True Nerd Trivia
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20130426
+DTEND;VALUE=DATE:20130429
+DTSTAMP:20130413T155055Z
+UID:7qpos194baaetja4dbr8togih0@google.com
+CREATED:20130227T193348Z
+DESCRIPTION:1d4cast Podcast Presents: 1d4Con\, A new convention in the Nort
+ hern Virginia Area.
+LAST-MODIFIED:20130227T193453Z
+LOCATION:http://1d4con.com/
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:1d4Con (VA)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130209T180000Z
+DTEND:20130209T190000Z
+DTSTAMP:20130413T155055Z
+UID:D87979B4-8F13-48DB-872B-E657D48C29FA
+CREATED:20130217T160030Z
+DESCRIPTION:
+LAST-MODIFIED:20130217T160030Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Flight? 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130207T180000Z
+DTEND:20130207T190000Z
+DTSTAMP:20130413T155055Z
+UID:8081AF13-F64C-4945-A7D9-81B38A18CFC5
+CREATED:20130217T160028Z
+DESCRIPTION:
+LAST-MODIFIED:20130217T160028Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Jody last day March 7th. Colman has been offsite. Not sure who is t
+ aking over. 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130204T140000Z
+DTEND:20130204T150000Z
+DTSTAMP:20130413T155055Z
+UID:96025EE2-D661-4C0B-8929-9C3C8C4E2A68
+CREATED:20130203T182630Z
+DESCRIPTION:
+LAST-MODIFIED:20130203T182631Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Email Michael updated list of tested games
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130222T000000Z
+DTEND:20130222T030000Z
+DTSTAMP:20130413T155055Z
+UID:tgm1j3ou6gaiji9qvcu1npljqg@google.com
+CREATED:20130124T221200Z
+DESCRIPTION:The next TRUE NERD TRIVIA is upon us! And how appropriate Febru
+ ary is also National Pie Month!\n\nJoin us for a night of nerdy trivia and 
+ fun prizes!\n\n\nWhere: The back room of Bar 82: 136 2nd Avenue\, NYC\nWhen
+ : Thursday\, February 21st\nStart time: 7:00pm\nCost: $5\n\nThe Island of M
+ isfit Toys took home the pie last month...who will be this month's winner?\
+ n...\nTeam size is limited to 6 players - so choose your companions wisely!
+  If you need a team - show up and we'll find you some new friends!\n\n***\n
+ \nFor all you newbies who have yet to experience our brand of Trivia\, leav
+ e your knowledge of state capitals at home! Forget everything you learned i
+ n high school - we won't be asking you any of that stuff! Instead\, our que
+ stions are all about the important things in life\, such as:\n\nGeography: 
+ What is the name of the region of Middle Earth where Hobbits live?\nScience
+  and Tech: What device will allow a Delorean to travel back in time?\nParaz
+ oology: How long would it take for you to be digested in the belly of the S
+ arlaac?\nSuperheroes: When Dick Grayson gets his driver's license - what ca
+ r can he take for a spin?\n\nAnd much much more!!!
+LAST-MODIFIED:20130124T221200Z
+LOCATION:The back room of Bar 82: 136 2nd Avenue\, NYC
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:True Nerd Trivia
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130119T000000Z
+DTEND:20130119T040000Z
+DTSTAMP:20130413T155055Z
+UID:6vsfa85a0fririo1eq9adhjvug@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=NerdNY
+ C Calendar;X-NUM-GUESTS=0:mailto:algqb78sbithpodn64kn0udcpc@group.calendar.
+ google.com
+CREATED:20121127T175809Z
+DESCRIPTION:Come out and socialize with us before Recess!
+LAST-MODIFIED:20121220T012033Z
+LOCATION:The back room of Bar 82: 136 2nd Avenue\, NYC
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:RECESS Pre-Party!
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121228T000000Z
+DTEND:20121228T030000Z
+DTSTAMP:20130413T155055Z
+UID:C2B8DE56-70D0-4334-8046-27C355DF149E
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=NerdNY
+ C Calendar;X-NUM-GUESTS=0:mailto:algqb78sbithpodn64kn0udcpc@group.calendar.
+ google.com
+CREATED:20121130T005200Z
+DESCRIPTION:It's the end of 2012\, and what better way to show out the year
+  than with a True Nerd Trivia EXTRAVAGANZA?\n\nJoin us for a night of nerdy
+  trivia and fun prizes and surprises! In the spirit of the holidays\, this 
+ month's event will be FREE!\n\n\nWhere: The back room of Bar 82: 136 2nd Av
+ enue\, NYC\nWhen: Thursday\, December 27th\nStart time: 7:00pm\nCost: FREE!
+ \n\nSinister Six took home the pie last month...who will be the last champi
+ ons of 2012?\n...\nTeam size is limited to 6 players - so choose your compa
+ nions wisely! If you need a team - show up and we'll find you some new frie
+ nds!\n\n***\n\nFor all you newbies who have yet to experience our brand of 
+ Trivia\, leave your knowledge of state capitals at home! Forget everything 
+ you learned in high school - we won't be asking you any of that stuff! Inst
+ ead\, our questions are all about the important things in life\, such as:\n
+ \nGeography: What is the name of the region of Middle Earth where Hobbits l
+ ive?\nScience and Tech: What device will allow a Delorean to travel back in
+  time?\nParazoology: How long would it take for you to be digested in the b
+ elly of the Sarlaac?\nSuperheroes: When Dick Grayson gets his driver's lice
+ nse - what car can he take for a spin?\n\nAnd much much more!!!
+LAST-MODIFIED:20121220T011310Z
+LOCATION:The back room of Bar 82: 136 2nd Avenue\, NYC
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:True Nerd Trivia: Holiday Special
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130119T160000Z
+DTEND:20130120T033000Z
+DTSTAMP:20130413T155055Z
+UID:tuh9ltitgfq68gh828gcem16hs@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=NerdNY
+ C Calendar;X-NUM-GUESTS=0:mailto:algqb78sbithpodn64kn0udcpc@group.calendar.
+ google.com
+CREATED:20121120T172234Z
+DESCRIPTION:RECESS is Back!\n\nSee http://nerdnyc.com/wordpress/save-the-da
+ te-recess-january-19th  for details!
+LAST-MODIFIED:20121220T011011Z
+LOCATION: 440 Lafayette Street - New York\, NY 10003 - 3rd Floor
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:RECESS
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20131213T190000
+DTEND;TZID=America/New_York:20131213T230000
+DTSTAMP:20130413T155055Z
+UID:q60aunal4e0pso814fmlflod10@google.com
+RECURRENCE-ID;TZID=America/New_York:20131215T190000
+CREATED:20121127T175527Z
+DESCRIPTION:See http://nerdnyc.com/phpBB3/viewforum.php?f=32  for details.
+LAST-MODIFIED:20121127T175705Z
+LOCATION:ThinkCoffee\, 248 Mercer Street (between 3rd and 4th Streets)
+SEQUENCE:3
+STATUS:CONFIRMED
+SUMMARY:NerdNYC Boardgame Night
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20131018T190000
+DTEND;TZID=America/New_York:20131018T230000
+DTSTAMP:20130413T155055Z
+UID:q60aunal4e0pso814fmlflod10@google.com
+RECURRENCE-ID;TZID=America/New_York:20131015T190000
+CREATED:20121127T175527Z
+DESCRIPTION:See http://nerdnyc.com/phpBB3/viewforum.php?f=32  for details.
+LAST-MODIFIED:20121127T175636Z
+LOCATION:ThinkCoffee\, 248 Mercer Street (between 3rd and 4th Streets)
+SEQUENCE:3
+STATUS:CONFIRMED
+SUMMARY:NerdNYC Boardgame Night
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20130920T190000
+DTEND;TZID=America/New_York:20130920T230000
+DTSTAMP:20130413T155055Z
+UID:q60aunal4e0pso814fmlflod10@google.com
+RECURRENCE-ID;TZID=America/New_York:20130915T190000
+CREATED:20121127T175527Z
+DESCRIPTION:See http://nerdnyc.com/phpBB3/viewforum.php?f=32  for details.
+LAST-MODIFIED:20121127T175630Z
+LOCATION:ThinkCoffee\, 248 Mercer Street (between 3rd and 4th Streets)
+SEQUENCE:3
+STATUS:CONFIRMED
+SUMMARY:NerdNYC Boardgame Night
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20130823T190000
+DTEND;TZID=America/New_York:20130823T230000
+DTSTAMP:20130413T155055Z
+UID:q60aunal4e0pso814fmlflod10@google.com
+RECURRENCE-ID;TZID=America/New_York:20130815T190000
+CREATED:20121127T175527Z
+DESCRIPTION:See http://nerdnyc.com/phpBB3/viewforum.php?f=32  for details.
+LAST-MODIFIED:20121127T175619Z
+LOCATION:ThinkCoffee\, 248 Mercer Street (between 3rd and 4th Streets)
+SEQUENCE:3
+STATUS:CONFIRMED
+SUMMARY:NerdNYC Boardgame Night
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20130719T190000
+DTEND;TZID=America/New_York:20130719T230000
+DTSTAMP:20130413T155055Z
+UID:q60aunal4e0pso814fmlflod10@google.com
+RECURRENCE-ID;TZID=America/New_York:20130715T190000
+CREATED:20121127T175527Z
+DESCRIPTION:See http://nerdnyc.com/phpBB3/viewforum.php?f=32  for details.
+LAST-MODIFIED:20121127T175612Z
+LOCATION:ThinkCoffee\, 248 Mercer Street (between 3rd and 4th Streets)
+SEQUENCE:3
+STATUS:CONFIRMED
+SUMMARY:NerdNYC Boardgame Night
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20130621T190000
+DTEND;TZID=America/New_York:20130621T230000
+DTSTAMP:20130413T155055Z
+UID:q60aunal4e0pso814fmlflod10@google.com
+RECURRENCE-ID;TZID=America/New_York:20130615T190000
+CREATED:20121127T175527Z
+DESCRIPTION:See http://nerdnyc.com/phpBB3/viewforum.php?f=32  for details.
+LAST-MODIFIED:20121127T175606Z
+LOCATION:ThinkCoffee\, 248 Mercer Street (between 3rd and 4th Streets)
+SEQUENCE:3
+STATUS:CONFIRMED
+SUMMARY:NerdNYC Boardgame Night
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20130517T190000
+DTEND;TZID=America/New_York:20130517T230000
+DTSTAMP:20130413T155055Z
+UID:q60aunal4e0pso814fmlflod10@google.com
+RECURRENCE-ID;TZID=America/New_York:20130515T190000
+CREATED:20121127T175527Z
+DESCRIPTION:See http://nerdnyc.com/phpBB3/viewforum.php?f=32  for details.
+LAST-MODIFIED:20121127T175557Z
+LOCATION:ThinkCoffee\, 248 Mercer Street (between 3rd and 4th Streets)
+SEQUENCE:3
+STATUS:CONFIRMED
+SUMMARY:NerdNYC Boardgame Night
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20130419T190000
+DTEND;TZID=America/New_York:20130419T230000
+DTSTAMP:20130413T155055Z
+UID:q60aunal4e0pso814fmlflod10@google.com
+RECURRENCE-ID;TZID=America/New_York:20130415T190000
+CREATED:20121127T175527Z
+DESCRIPTION:See http://nerdnyc.com/phpBB3/viewforum.php?f=32  for details.
+LAST-MODIFIED:20121127T175545Z
+LOCATION:ThinkCoffee\, 248 Mercer Street (between 3rd and 4th Streets)
+SEQUENCE:3
+STATUS:CONFIRMED
+SUMMARY:NerdNYC Boardgame Night
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20130215T190000
+DTEND;TZID=America/New_York:20130215T230000
+RRULE:FREQ=MONTHLY;UNTIL=20131216T000000Z;BYMONTHDAY=15
+DTSTAMP:20130413T155055Z
+UID:q60aunal4e0pso814fmlflod10@google.com
+CREATED:20121127T175527Z
+DESCRIPTION:See http://nerdnyc.com/phpBB3/viewforum.php?f=32  for details.
+LAST-MODIFIED:20121127T175527Z
+LOCATION:ThinkCoffee\, 248 Mercer Street (between 3rd and 4th Streets)
+SEQUENCE:2
+STATUS:CONFIRMED
+SUMMARY:NerdNYC Boardgame Night
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20130111T190000
+DTEND;TZID=America/New_York:20130111T230000
+DTSTAMP:20130413T155055Z
+UID:kvtojgpfmd0cpsnjn6mnheu2m0@google.com
+RECURRENCE-ID;TZID=America/New_York:20121207T190000
+CREATED:20111203T181220Z
+DESCRIPTION:See http://nerdnyc.com/phpBB3/viewforum.php?f=32  for details.
+LAST-MODIFIED:20121127T175306Z
+LOCATION:ThinkCoffee\, 248 Mercer Street (between 3rd and 4th Streets)
+SEQUENCE:3
+STATUS:CONFIRMED
+SUMMARY:NerdNYC Boardgame Night
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121215T000000Z
+DTEND:20121215T040000Z
+DTSTAMP:20130413T155055Z
+UID:4kmotnrgloog0dditnlgabg53s@google.com
+CREATED:20121127T175050Z
+DESCRIPTION:See http://nerdnyc.com/phpBB3/viewforum.php?f=32  for details.
+LAST-MODIFIED:20121127T175050Z
+LOCATION:ThinkCoffee\, 248 Mercer Street (between 3rd and 4th Streets)
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:NerdNYC Boardgame Night
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20130221
+DTEND;VALUE=DATE:20130225
+DTSTAMP:20130413T155055Z
+UID:c8j44otrv24m05r80ln3dphvkk@google.com
+CREATED:20121111T035618Z
+DESCRIPTION:http://www.dexposure.com/events.html\n\nOnline registration:\nh
+ ttp://www.dexposure.com/d2013i.html\n
+LAST-MODIFIED:20121115T125057Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Dreamation
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20130831
+DTEND;VALUE=DATE:20130903
+DTSTAMP:20130413T155055Z
+UID:0tjq16erq5g33mm7vqbpm8t5j8@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=NerdNY
+ C Calendar;X-NUM-GUESTS=0:mailto:algqb78sbithpodn64kn0udcpc@group.calendar.
+ google.com
+CREATED:20121111T041629Z
+DESCRIPTION:http://prime.paxsite.com/
+LAST-MODIFIED:20121111T041640Z
+LOCATION:Seattle\, WA
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:PAX Prime
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20130815
+DTEND;VALUE=DATE:20130819
+DTSTAMP:20130413T155055Z
+UID:udbhuudli8ec7c0s7nkn43q51c@google.com
+CREATED:20120821T124715Z
+DESCRIPTION:http://www.gencon.com/
+LAST-MODIFIED:20121111T041512Z
+LOCATION:Indianapolis\, IN
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Gen Con
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20130712
+DTEND;VALUE=DATE:20130716
+DTSTAMP:20130413T155055Z
+UID:moc22aab44h5vkjs8fjrqmslvg@google.com
+CREATED:20121111T041341Z
+DESCRIPTION:http://www.comic-con.org/cci/
+LAST-MODIFIED:20121111T041341Z
+LOCATION:San Diego\, CA
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Comic-Con
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20130712
+DTEND;VALUE=DATE:20130715
+DTSTAMP:20130413T155055Z
+UID:dvlviuj082rb19792ft7a4u7ro@google.com
+CREATED:20121111T041123Z
+DESCRIPTION:http://connecticon.org/
+LAST-MODIFIED:20121111T041123Z
+LOCATION:Connecticut Convention Center Hartford\, CT
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:ConnectiCon
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20130612
+DTEND;VALUE=DATE:20130617
+DTSTAMP:20130413T155055Z
+UID:dd47ars1dackndvv36nk8gtrdc@google.com
+CREATED:20121111T041016Z
+DESCRIPTION:http://www.originsgamefair.com/
+LAST-MODIFIED:20121111T041016Z
+LOCATION:Greater Columbus Convention Center  Columbus\, Ohio\, 43215\, USA
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Origins
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20130418
+DTEND;VALUE=DATE:20130422
+DTSTAMP:20130413T155055Z
+UID:j9nfu3ik55unn5u401ag3j751g@google.com
+CREATED:20121111T040859Z
+DESCRIPTION:http://www.reapermini.com/ReaperCon
+LAST-MODIFIED:20121111T040859Z
+LOCATION:Denton\, TX
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:ReaperCon
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20130322
+DTEND;VALUE=DATE:20130325
+DTSTAMP:20130413T155055Z
+UID:8ocvr0gn8kda9guk63v95gdnik@google.com
+CREATED:20121111T040727Z
+DESCRIPTION:http://east.paxsite.com/
+LAST-MODIFIED:20121111T040727Z
+LOCATION:Boston\, MA
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:PAX East
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20130322
+DTEND;VALUE=DATE:20130325
+DTSTAMP:20130413T155055Z
+UID:tq9dvdmq8tbj77mmhujq31td3c@google.com
+CREATED:20121111T040638Z
+DESCRIPTION:http://www.iconsf.org/
+LAST-MODIFIED:20121111T040638Z
+LOCATION:Hofstra University
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:I-CON
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20130103
+DTEND;VALUE=DATE:20130107
+DTSTAMP:20130413T155055Z
+UID:rrme5cuj9sfe9cvffus1p9nlv0@google.com
+CREATED:20121111T035345Z
+DESCRIPTION:http://magfest.org/
+LAST-MODIFIED:20121111T035355Z
+LOCATION:Gaylord National Hotel and Convention Center 201 Waterfront Street
+  National Harbor\, MD 20745
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:MAGFest
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121108T000000Z
+DTEND:20121108T010000Z
+DTSTAMP:20130413T155055Z
+UID:ik923rshb2bqg63rbv3g2r5bso@google.com
+CREATED:20121030T171546Z
+DESCRIPTION:Recently we were contacted by a night manager working at ThinkC
+ offee. They consider our Boardgame Nights at ThinkCoffee (Mercer Street) a 
+ big success\, and would like to see similar events held at their other loca
+ tions\, specifically the ThinkCoffee located on Bleecker Street. So we've d
+ ecided to hold a bonus game night there to get them started!\n\nThe catch\,
+  however\, is that the amount of table space available at Bleecker is prett
+ y limited\, and the tables are fairly small. Therefore\, this event will fo
+ cus on CARD GAMES.\n\nOn WEDNESDAY\, NOVEMBER 7th\, 7:00-11:00PM\, NerdNYC 
+ will hold a special CARD GAME NIGHT at ThinkCoffee Bleecker!\n\nBring any c
+ ard game you want\, enjoy the company of your fellow nerds and eat deliciou
+ s foodstuffs!\n\nWe'll be meeting @:\nTHINKCOFFEE (Bleecker Street)\n1 Blee
+ cker Street\n(on the corner of Bleecker and Bowery)\nNew York\, NY\nhere's 
+ a Google map.\n\n\n--------------------------------------------------------
+ ---------------------------\nADMISSION is FREE!!!!*\n*ThinkCoffee respectfu
+ lly requests that you purchase something from their wide variety of drinks 
+ and vegan-friendly foodstuffs.\n\n\n---------------------------------------
+ --------------------------------------------\n\nPlease post (http://nerdnyc
+ .com/phpBB3/viewtopic.php?f=32&t=52867) if you are attending\, and list the
+  games you intend to bring so that people can get all excited!\n\nNOTE: Tab
+ le space at ThinkCoffee Bleecker is very restricted! Only bring games that 
+ can fit on a small table.\n\nNOTE: Like all of our events\, no experience i
+ s necessary to participate. We ask that everyone who brings a game be ready
+  to explain the rules to newcomers.\n\n\nIf you have questions\, either pos
+ t here or send a Private Message (PM) to Pillar.\n\nGAME ON!\n\n\nPillar
+LAST-MODIFIED:20121030T171546Z
+LOCATION:THINKCOFFEE (Bleecker Street) 1 Bleecker Street (on the corner of 
+ Bleecker and Bowery) New York\, NY
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Bleecker Street CardGame Night
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121130T000000Z
+DTEND:20121130T030000Z
+DTSTAMP:20130413T155055Z
+UID:iuk33u57ubl27c55h3j4ipa4nc@google.com
+CREATED:20121011T234421Z
+DESCRIPTION:The next True Nerd Trivia is upon us!\n\nWhere: The back room o
+ f BAR 82\n136 2nd Ave.\, New York\, NY 10003\nWhen: Thursday\, November 29t
+ h\nStart time: 7:00pm\nCost: $5\n\nTeam size is limited to 6 players - so c
+ hoose your companions wisely! If you need a team - show up and we'll find y
+ ou some new friends!\n\nFor updates and info: truenerdtrivia.com\n\n***\n\n
+ For all you newbies who have yet to experience our brand of Trivia\, leave 
+ your knowledge of state capitals at home! Forget everything you learned in 
+ high school - we won't be asking you any of that stuff! Instead\, our quest
+ ions are all about the important things in life\, such as:\n\nGeography: Wh
+ at is the name of the region of Middle Earth where Hobbits live?\nScience a
+ nd Tech: What device will allow a Delorean to travel back in time?\nParazoo
+ logy: How long would it take for you to be digested in the belly of the Sar
+ laac?\nSuperheroes: When Dick Grayson gets his driver's license - what car 
+ can he take for a spin?\n\nAnd much much more!!!
+LAST-MODIFIED:20121011T234421Z
+LOCATION:The back room of BAR 82 136 2nd Ave.\, New York\, NY 10003
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:True Nerd Trivia
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121201T160000Z
+DTEND:20121202T000000Z
+DTSTAMP:20130413T155055Z
+UID:9cf7mof9eq2cr7ofchulfbon08@google.com
+CREATED:20120919T175214Z
+DESCRIPTION:
+LAST-MODIFIED:20120919T175214Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:DBAGS
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20130301
+DTEND;VALUE=DATE:20130304
+DTSTAMP:20130413T155055Z
+UID:5FBF4A1486A04EBD9A1B73E3FC20DD7B00000000000000000000000000000000
+CREATED:20120916T041644Z
+DESCRIPTION:
+LAST-MODIFIED:20120916T041748Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:InterCon M
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121004T230000Z
+DTEND:20121005T020000Z
+DTSTAMP:20130413T155055Z
+UID:623k2eak2617qdijddc6l8rmok@google.com
+CREATED:20120911T230120Z
+DESCRIPTION:That's right bat-friends! A whole TRUE NERD TRIVIA dedicated to
+  our favorite caped heroes and villains! Everything is fair game\, from mov
+ ies to cartoons\, to comics to horrible live action TV!\n\n\nWhere: The bac
+ k room of Bar 82\nWhen: Thursday\, October 4th\nStart time: 7:00pm\nCost: $
+ 5 cover charge\n...\nTeam size is limited to 6 players - so choose your com
+ panions wisely! If you need a team - show up and we'll find you some new fr
+ iends!\n\nWho will become True Nerd Trivia's next champions and win that pi
+ e? Join us and find out!\n\n***\n\nFor all you newbies who have yet to expe
+ rience our brand of Trivia\, leave your knowledge of state capitals at home
+ ! Forget everything you learned in high school - we won't be asking you any
+  of that stuff! Instead\, our questions are all about the important things 
+ in life\, such as:\n\nGeography: What is the name of the region of Middle E
+ arth where Hobbits live?\nScience and Tech: What device will allow a Delore
+ an to travel back in time?\nParazoology: How long would it take for you to 
+ be digested in the belly of the Sarlaac?\nSuperheroes: When Dick Grayson ge
+ ts his driver's license - what car can he take for a spin?\n\nAnd much much
+  more!!!
+LAST-MODIFIED:20120911T230248Z
+LOCATION:Bar 82 -The back room - 136 2nd Avenue\, NYC
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:True Nerd Trivia: Supertober!
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120914T230000Z
+DTEND:20120915T030000Z
+DTSTAMP:20130413T155055Z
+UID:0n43u8vrquash617gsv22802qs@google.com
+CREATED:20120911T225447Z
+DESCRIPTION:Who can attend?\n- Anyone as long as you are 21+ years old.\n- 
+ RSVP here (if you aren’t on Facebook\, just show up): https://www.facebook.
+ com/events/416467878417091\n\nWhat else?\n- Bring boardgames!\n- Games\, mu
+ sic\, and meet other nerds who love RECESS like you!\n\nNever been to RECES
+ S?\n- Come to our free party\, meet us\, and learn more!\n- RECESS details:
+  http://nerdnyc.com/wordpress/save-the-date-recess-september-15th\n\nSee yo
+ u there!
+LAST-MODIFIED:20120911T225447Z
+LOCATION:Bar 82 - 136 2nd Avenue - New York\, NY\, 10003 - Back room - http
+ ://www.bar82nyc.com/
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:RECESS Pre-Party
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120830T230000Z
+DTEND:20120831T000000Z
+DTSTAMP:20130413T155055Z
+UID:88du408ru59srvttcam7jploh4@google.com
+CREATED:20120806T134834Z
+DESCRIPTION:We can't believe it's been 3 years already! That's over 1000 qu
+ estions asked and over 30 pies consumed! (Give or take a few...)\n\nSo plea
+ se join us for a very special anniversary Trivia. To thank all of you who h
+ ave supported us through the years\, this month's event will be FREE! Yay!\
+ n\n\nWhere: The back room of Bar 82\, 136 2nd Ave.\, New York\, NY 10003\nW
+ hen: Thursday\, August 30th\nStart time: 7:00pm\nCost: FREE!\n...\nTeam siz
+ e is limited to 6 players - so choose your companions wisely! If you need a
+  team - show up and we'll find you some new friends!\n\nWho will become Tru
+ e Nerd Trivia's next champions and win that pie? Join us and find out!\n\n*
+ **\n\nFor all you newbies who have yet to experience our brand of Trivia\, 
+ leave your knowledge of state capitals at home! Forget everything you learn
+ ed in high school - we won't be asking you any of that stuff! Instead\, our
+  questions are all about the important things in life\, such as:\n\nGeograp
+ hy: What is the name of the region of Middle Earth where Hobbits live?\nSci
+ ence and Tech: What device will allow a Delorean to travel back in time?\nP
+ arazoology: How long would it take for you to be digested in the belly of t
+ he Sarlaac?\nSuperheroes: When Dick Grayson gets his driver's license - wha
+ t car can he take for a spin?\n\nAnd much much more!!!\n
+LAST-MODIFIED:20120806T134834Z
+LOCATION:The back room of Bar 82\, 136 2nd Ave.\, New York\, NY 10003
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:True Nerd Trivia
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20120907T190000
+DTEND;TZID=America/New_York:20120907T230000
+DTSTAMP:20130413T155055Z
+UID:kvtojgpfmd0cpsnjn6mnheu2m0@google.com
+RECURRENCE-ID;TZID=America/New_York:20120914T190000
+CREATED:20111203T181220Z
+DESCRIPTION:See http://nerdnyc.com/phpBB3/viewforum.php?f=32  for details.
+LAST-MODIFIED:20120723T162913Z
+LOCATION:ThinkCoffee\, 248 Mercer Street (between 3rd and 4th Streets)
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:NerdNYC Boardgame Night
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120915T150000Z
+DTEND:20120916T023000Z
+DTSTAMP:20130413T155055Z
+UID:27ln8io1qqqs9rqkllvcr628h0@google.com
+CREATED:20120723T161900Z
+DESCRIPTION:Recess is back!\n\nhttp://nerdnyc.com/phpBB3/viewtopic.php?f=25
+ &t=52404
+LAST-MODIFIED:20120723T162024Z
+LOCATION:440 Studios Manhattan
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:RECESS!
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120726T230000Z
+DTEND:20120727T020000Z
+DTSTAMP:20130413T155055Z
+UID:1ovt6vs5v12btui0ef1jltfu9s@google.com
+CREATED:20120707T204241Z
+DESCRIPTION:The next True Nerd Trivia is upon us!\n\nSea Cucumber and the M
+ organ Freemen tied for the pie last time...who will be our next champions?\
+ n\n\nWhere: The back room of BAR 82\n136 2nd Ave.\, New York\, NY 10003\nWh
+ en: Thursday\, July 26th\nStart time: 7:00pm\nCost: $5\n\nTeam size is limi
+ ted to 6 players - so choose your companions wisely! If you need a team - s
+ how up and we'll find you some new friends!\n\nFor updates and info: truene
+ rdtrivia.com\n\n***\n\nFor all you newbies who have yet to experience our b
+ rand of Trivia\, leave your knowledge of state capitals at home! Forget eve
+ rything you learned in high school - we won't be asking you any of that stu
+ ff! Instead\, our questions are all about the important things in life\, su
+ ch as:\n\nGeography: What is the name of the region of Middle Earth where H
+ obbits live?\nScience and Tech: What device will allow a Delorean to travel
+  back in time?\nParazoology: How long would it take for you to be digested 
+ in the belly of the Sarlaac?\nSuperheroes: When Dick Grayson gets his drive
+ r's license - what car can he take for a spin?\n\nAnd much much more!!!
+LAST-MODIFIED:20120707T204242Z
+LOCATION:The back room of BAR 82 136 2nd Ave.\, New York\, NY 10003
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:True Nerd Trivia
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120628T230000Z
+DTEND:20120629T020000Z
+DTSTAMP:20130413T155055Z
+UID:kf66h02cd3pt46mkn0k0dr0m70@google.com
+CREATED:20120622T195455Z
+DESCRIPTION:The next True Nerd Trivia is upon us!\n\nNow we have our own ro
+ om at our new location Bar 82... Cost is merely $5 per person to rent our v
+ ery own cave of nerdiness. No more sports bar yahoos! It's us nerds only!\n
+ \nFoghat took the pie last time...who will be our next champions?\n\n\nWher
+ e: The back room of BAR 82\n136 2nd Ave.\, New York\, NY 10003\nWhen: Thurs
+ day\, June 28th\nStart time: 7:00pm\nCost: $5\n\nTeam size is limited to 6 
+ players - so choose your companions wisely! If you need a team - show up an
+ d we'll find you some new friends!\n\nFor updates and info: truenerdtrivia.
+ com\n\n***\n\nFor all you newbies who have yet to experience our brand of T
+ rivia\, leave your knowledge of state capitals at home! Forget everything y
+ ou learned in high school - we won't be asking you any of that stuff! Inste
+ ad\, our questions are all about the important things in life\, such as:\n\
+ nGeography: What is the name of the region of Middle Earth where Hobbits li
+ ve?\nScience and Tech: What device will allow a Delorean to travel back in 
+ time?\nParazoology: How long would it take for you to be digested in the be
+ lly of the Sarlaac?\nSuperheroes: When Dick Grayson gets his driver's licen
+ se - what car can he take for a spin?\n\nAnd much much more!!!
+LAST-MODIFIED:20120622T195455Z
+LOCATION:The back room of BAR 82\, 136 2nd Ave.\, New York\, NY 10003
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:True Nerd Trivia
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120630T210000Z
+DTEND:20120701T030000Z
+DTSTAMP:20130413T155055Z
+UID:kdp1qpnrm0r4oackbl43d6joik@google.com
+CREATED:20120604T165455Z
+DESCRIPTION:An evening of Boardgames at our favorite coffee place\, ThinkCo
+ ffee.\n\nAs a special treat\, this evening's games will start at 5pm\, rath
+ er than the usual 7pm\, and run until ThinkCoffee closes.\n\nSee http://ner
+ dnyc.com/phpBB3/viewtopic.php?f=32&t=52157 for further details.
+LAST-MODIFIED:20120604T165455Z
+LOCATION:ThinkCoffee\, 248 Mercer Street (between 3rd and 4th Streets)
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:NerdNYC BONUS Boardgame Night
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120630
+DTEND;VALUE=DATE:20120701
+DTSTAMP:20130413T155055Z
+UID:2m6fmhmeq7ptr1g59mqgfqm9gg@google.com
+CREATED:20120407T044920Z
+DESCRIPTION:PLEASE READ. THIS COMING RECESS HAS BEEN CANCELLED\n\nNerdNYC h
+ as grown remarkably over the years\, and events like Recess have grown with
+  it. The NerdNYC Board and Officers are always looking at new ways to impro
+ ve our events and make sure everyone participating has a fun\, safe time. R
+ ecess has always gotten special attention from us\, we absolutely love orga
+ nizing it\, and absolutely love the awesome-fun-good times we all share tog
+ ether at Recess.\n\nNerdNYC is a non-profit organization\, and as Recess gr
+ ows\, the NerdNYC Board and Officers have to pay close attention to serious
+  matters like fire safety laws\, security\, and liability issues. As Recess
+  continues to grow\, these concerns grow and change with it. After some ini
+ tial research into these topics and an extended discussion\, we have determ
+ ined that there are several necessary improvements we need to make to Reces
+ s.\n\nNow for the bad news: \n\nBecause the improvements require substantia
+ l preparation\, and because Recess itself takes so much effort to put toget
+ her (all of which is done by volunteers)\, the Board and Officers have deci
+ ded to cancel the June 30th Recess event. \n\nThis is not a decision that w
+ as made lightly or without considerable deliberation. Several alternatives 
+ to canceling were considered and rejected for one reason or another. In the
+  end\, we do not have the time and resources to make Recess what it needs t
+ o be by this date. This is not a matter of not having enough volunteer nerd
+ power (to everyone who immediately started thinking of ways they might volu
+ nteer to help us out\, thank you from the bottom of our hearts). It is a ma
+ tter of not having enough time\, since it requires working with outside par
+ ties who have their own time restrictions. \n\nWe know this will disappoint
+  a lot of you -- if not all of you. No one is more disappointed than us. We
+  realize that this especially stings because of the recent postponement of 
+ the GGG. We feel that sting sharply. We've run Recess multiple times a year
+  for nine years and have never had to cancel\; we don't do so lightly. We r
+ egret that we could not reach this decision before announcing the Recess da
+ te\, and deeply apologize to everyone who was looking forward to Recess in 
+ June.\n\nRecess will return.\n\nBarring some unforeseen issue\, Boardgame N
+ ights at ThinkCoffee will continue as scheduled. The forums will be here. A
+ nd we are looking into the possibility of other\, smaller events that we ho
+ pe we can put together before next Recess.\n\nWe would like to thank you al
+ l in advance for your understanding. To our prospective GMs\, hold on to th
+ ose game ideas for the next time -- we will need them when Recess makes it 
+ glorious return! To our regular attendees and guests\, we thank you for you
+ r outstanding support over these wonderful years.\n\nThank you all.\n\n-- t
+ he NerdNYC Officers
+LAST-MODIFIED:20120531T173535Z
+LOCATION:440 Studios\,  440 Lafayette Street\, Manhattan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:CANCELLED: RECESS
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120531T230000Z
+DTEND:20120601T020000Z
+DTSTAMP:20130413T155055Z
+UID:28vcpgv5cjg8evql6sjbv0f1m8@google.com
+CREATED:20120525T182556Z
+DESCRIPTION:The next TRUE NERD TRIVIA! is upon us!\n\nNow we have our own r
+ oom at our new location Bar 82... Cost is merely $5 per person to rent our 
+ very own cave of nerdiness. No more sports bar yahoos! It's us nerds only!\
+ n\nTreebeard took the pie last time...who will be our next champions?\n\n\n
+ Where: The back room of BAR 82\n136 2nd Ave.\, New York\, NY 10003\nWhen: T
+ hursday\, May 31st\nStart time: 7:00pm\nCost: $5\n\nTeam size is limited to
+  6 players - so choose your companions wisely! If you need a team - show up
+  and we'll find you some new friends!\n\nFor updates and info: truenerdtriv
+ ia.com\n\n***\n\nFor all you newbies who have yet to experience our brand o
+ f Trivia\, leave your knowledge of state capitals at home! Forget everythin
+ g you learned in high school - we won't be asking you any of that stuff! In
+ stead\, our questions are all about the important things in life\, such as:
+ \n\nGeography: What is the name of the region of Middle Earth where Hobbits
+  live?\nScience and Tech: What device will allow a Delorean to travel back 
+ in time?\nParazoology: How long would it take for you to be digested in the
+  belly of the Sarlaac?\nSuperheroes: When Dick Grayson gets his driver's li
+ cense - what car can he take for a spin?\n\nAnd much much more!!!
+LAST-MODIFIED:20120525T182556Z
+LOCATION:The back room of BAR 82\,  136 2nd Ave.\, New York\, NY 10003
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:True Nerd Trivia
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120914
+DTEND;VALUE=DATE:20120917
+DTSTAMP:20130413T155055Z
+UID:9127oe91pi7rk22pdo2n6seckg@google.com
+CREATED:20120525T123435Z
+DESCRIPTION:http://www.escapistexpo.com/
+LAST-MODIFIED:20120525T123619Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Escapist Expo (Durham\, NC)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120426T233000Z
+DTEND:20120427T023000Z
+DTSTAMP:20130413T155055Z
+UID:5v6gip0jh225k99ofkoklsjnpk@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=NerdNY
+ C Calendar;X-NUM-GUESTS=0:mailto:algqb78sbithpodn64kn0udcpc@group.calendar.
+ google.com
+CREATED:20120330T140124Z
+DESCRIPTION:The next TRUE NERD TRIVIA! is upon us! The Morgan Freemen took 
+ the pie last time...who will be our next champions?\n\nTeam size is limited
+  to 6 players - so choose your companions wisely! If you need a team - show
+  up and we'll find you some new friends!\n\nSuggested donation $1 to feed t
+ he pie fund.\n\nFor updates and info: truenerdtrivia.com\n\n***\n\nFor all 
+ you newbies who have yet to experience our brand of Trivia\, leave your kno
+ wledge of state capitals at home! Forget everything you learned in high sch
+ ool - we won't be asking you any of that stuff! Instead\, our questions are
+  all about the important things in life\, such as:\n\nGeography: What is th
+ e name of the region of Middle Earth where Hobbits live?\nScience and Tech:
+  What device will allow a Delorean to travel back in time?\nParazoology: Ho
+ w long would it take for you to be digested in the belly of the Sarlaac?\nS
+ uperheroes: When Dick Grayson gets his driver's license - what car can he t
+ ake for a spin?\n\nAnd much much more!!!
+LAST-MODIFIED:20120330T140133Z
+LOCATION:Ryan's Irish Pub 151 2nd Ave\, NYC
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:True Nerd Trivia
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120713
+DTEND;VALUE=DATE:20120716
+DTSTAMP:20130413T155055Z
+UID:glfpvusvm1oepfnfboeddpmtj0@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=NerdNY
+ C Calendar;X-NUM-GUESTS=0:mailto:algqb78sbithpodn64kn0udcpc@group.calendar.
+ google.com
+CREATED:20120317T125006Z
+DESCRIPTION:http://connecticon.org/\n\n
+LAST-MODIFIED:20120317T125022Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Connecticon
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120315T233000Z
+DTEND:20120316T023000Z
+DTSTAMP:20130413T155055Z
+UID:n7uq1d2jd7glvqnjorv4rrtl28@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=NerdNY
+ C Calendar;X-NUM-GUESTS=0:mailto:algqb78sbithpodn64kn0udcpc@group.calendar.
+ google.com
+CREATED:20120218T054939Z
+DESCRIPTION:The next TRUE NERD TRIVIA! is upon us! Can you defeat Foghat's 
+ winning streak and claim that pie? Join us and find out!\n\n\nTeam size is 
+ limited to 6 players - so choose your companions wisely! If you need a team
+  - show up and we'll find you some new friends!\n\nSuggested donation $1 to
+  feed the pie fund.\n\nFor updates and info: truenerdtrivia.com\n\n***\n\nF
+ or all you newbies who have yet to experience our brand of Trivia\, leave y
+ our knowledge of state capitals at home! Forget everything you learned in h
+ igh school - we won't be asking you any of that stuff! Instead\, our questi
+ ons are all about the important things in life\, such as:\n\nGeography: Wha
+ t is the name of the region of Middle Earth where Hobbits live?\nScience an
+ d Tech: What device will allow a Delorean to travel back in time?\nParazool
+ ogy: How long would it take for you to be digested in the belly of the Sarl
+ aac?\nSuperheroes: When Dick Grayson gets his driver's license - what car c
+ an he take for a spin?\n\nAnd much much more!!!
+LAST-MODIFIED:20120315T170701Z
+LOCATION:Ryan's Irish Pub 151 2nd Ave\, NYC
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:True Nerd Trivia
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120518T210000Z
+DTEND:20120520T220000Z
+DTSTAMP:20130413T155055Z
+UID:29FE669C12674460A2A02295A88582F000000000000000000000000000000000
+CREATED:20120224T224452Z
+LAST-MODIFIED:20120224T224452Z
+LOCATION:Triangle\, VA
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Camp Nerdly
+TRANSP:OPAQUE
+CATEGORIES:http://schemas.google.com/g/2005#event
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120215T000000Z
+DTEND:20120215T020000Z
+DTSTAMP:20130413T155055Z
+UID:0hsb1qqpshofk3l54fll0h0s2k@google.com
+CREATED:20120212T180935Z
+DESCRIPTION:http://www.facebook.com/events/241852312561104/\n\n\n♥ Rad lect
+ ures on issues of gender and love [in gaming]. Come alone or bring someone 
+ special. ♥\n\n\n♥ Jared Sorensen & Luke Crane: Roll for Romance: Gender\, C
+ rossplay and Romance in Roleplaying Games.\n\n\n♥ Dylan McKenzie and Max Se
+ bela: Do You Love Me? A Talk About Love\, Trust\, and Data Collection\n\n\n
+ ♥ Lizzie Stark: LARP Love\, Not War: Scandinavian Methods for Sexy Roleplay
+ ing\n\n\n♥ Bios\n\n- Jared A. Sorensen is a writer\, game designer and inte
+ raction designer based in New York City. In the more than a decade of exper
+ ience in the field of games and game design\, Jared worked with a variety o
+ f companies. Previous employers/clients have included: Mattel Interactive\,
+  Atari\, LucasArts\, Propaganda Studios\, Green Ronin\, White Wolf\, Tilted
+  Mill Entertainment\, Turbine Inc.\, Chimera Creative\, Hidden City Enterta
+ inment\, Disney\, Fourth Story Media\, Together.us\, Bblworld LLC and TapFu
+ ry. In addition to working as designer in the computer games industry\, Jar
+ ed also produces his own line of roleplaying games (InSpectres\, Lacuna Par
+ t I and others) and social games (Parsely). He was a contributor to two boo
+ ks on gamer culture: Family Games: The 100 Best and The Bones: Us and Our D
+ ice.\n\n- Luke Crane is a multiple Origins award-winning game designer and 
+ book publisher living in New York City. As the creator and founder of Burni
+ ng Wheel\, he wrote\, designed and published this critically acclaimed and 
+ controversial fantasy role playing game. He also designed and published the
+  the science-fiction RPG Burning Empires (based on the Iron Empires series 
+ by Christopher Moeller) and the Mouse Guard RPG (based on the comics by Dav
+ id Petersen). Luke was also employed by Hidden City Entertainment as a seni
+ or game designer and producer and as a writer/designer with Propaganda Stud
+ ios/Disney Interactive. Luke also contributed an essay on Jungle Speed in t
+ he collection Family Games: The 100 Best. His most recent project is the de
+ finitive edition of the Burning Wheel RPG System: Burning Wheel Gold.\n\n- 
+ Dylan McKenzie is dedicated to the pursuit of exploring the expressive\, ed
+ ucational\, and aesthetic qualities of games. He cultivated this passion du
+ ring his time at the NYU Steinhardt Media\, Culture\, & Communication progr
+ am\, where he completed his thesis\, “Fantasies of Labor: Work and Play in 
+ World of Warcraft.” Currently\, Dylan is the Program Coordinator at the NYU
+  Game Center\, where he works enthusiastically to establish the Game Center
+  as a central hub of game design and study in New York City and beyond.\n\n
+ - Max Sebela is a writer and amateur game designer living in Brooklyn. He c
+ urrently serves the social media and emerging technologies teams at Morpheu
+ s Media\, a full service interactive agency. He is the former editor in chi
+ ef of Jezebel Music\, a daily Brooklyn music magazine. Max graduated from N
+ ew York University in 2010 with a B.A. in Journalism\, Philosophy\, and Cre
+ ative Writing\, where he focused his capstone project on the demise of the 
+ New York City arcade scene.\n\n- Lizzie Stark is the author of Leaving Mund
+ ania (Chicago Review Press\, 2012)\, a narrative nonfiction exploration of 
+ the hobby/subculture of larp. She has written for The Daily Beast\, io9.com
+ \, and the Today Show website and holds masters degrees in journalism and c
+ reative writing from Columbia University and Emerson College. In her off-ho
+ urs\, she moonlights as editor of the literary magazine Fringe.\n\n♥♥♥♥♥♥♥♥
+ ♥♥♥♥♥♥♥♥♥♥♥♥\nPublic Assembly\n//\n70 North 6th Street (between Kent + Wyth
+ e)\nBrooklyn\, New York\, 11211\n//\n♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥\n\nFREE (with sug
+ gested donation) \nALL AGES
+LAST-MODIFIED:20120212T181729Z
+LOCATION:Public Assembly // 70 North 6th Street (between Kent + Wythe) Broo
+ klyn\, New York\, 11211
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Babycastles Lectures @ Public Assembly ♥ Do You Love Me? ♥ 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120217T003000Z
+DTEND:20120217T033000Z
+DTSTAMP:20130413T155055Z
+UID:3leldo675jsmp86aadqhr0g4k0@google.com
+CREATED:20120120T193218Z
+DESCRIPTION:TRUE NERD TRIVIA -- GREAT AMERICAN PIE MONTH!\n\nNOTE THE NEW L
+ OCATION!\n\nTeam size is limited to 6 players - so choose your companions w
+ isely! Who will become True Nerd Trivia's next champions and win that pie? 
+ Join us and find out!\n\nSuggested donation $1 to feed the pie fund.\nJoin 
+ our Facebook page and get updates for all events.\n\n*There is another even
+ t that begins directly after ours\, so please try to be on time :)\n\nFor a
+ ll you newbies who have yet to experience our brand of Trivia\, leave your 
+ knowledge of state capitals at home! Forget everything you learned in high 
+ school – we won’t be asking you any of that stuff! Instead\, our questions 
+ are all about the important things in life\, such as:\n\nGeography: What is
+  the name of the region of Middle Earth where Hobbits live?\nScience and Te
+ ch: What device will allow a Delorean to travel back in time?\nParazoology:
+  How long would it take for you to be digested in the belly of the Sarlaac?
+ \nSuperheroes: When Dick Grayson gets his driver’s license – what car can h
+ e take for a spin?\n\nAnd much much more!!!
+LAST-MODIFIED:20120120T193218Z
+LOCATION:Ryan's Irish Pub\, 151 2nd Avenue\, NYC
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:True Nerd Trivia
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120114T000000Z
+DTEND:20120114T043000Z
+DTSTAMP:20130413T155055Z
+UID:nv0csjg3oklufmtvvms3luko38@google.com
+CREATED:20120108T192545Z
+DESCRIPTION:A pre-party to launch the weekend's RECESS!  This is the perfec
+ t time to socialize with other nerds!  
+LAST-MODIFIED:20120108T192545Z
+LOCATION:Bar 82\, 136 2nd Avenue\, New York\, NY\, 10003
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Recess Pre-Party
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20120306T190000
+DTEND;TZID=America/New_York:20120306T230000
+DTSTAMP:20130413T155055Z
+UID:kvtojgpfmd0cpsnjn6mnheu2m0@google.com
+RECURRENCE-ID;TZID=America/New_York:20120302T190000
+CREATED:20111203T181220Z
+DESCRIPTION:See http://nerdnyc.com/phpBB3/viewforum.php?f=32  for details.
+LAST-MODIFIED:20111203T182013Z
+LOCATION:ThinkCoffee\, 248 Mercer Street (between 3rd and 4th Streets)
+SEQUENCE:2
+STATUS:CONFIRMED
+SUMMARY:NerdNYC Boardgame Night
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20121116T190000
+DTEND;TZID=America/New_York:20121116T230000
+DTSTAMP:20130413T155055Z
+UID:kvtojgpfmd0cpsnjn6mnheu2m0@google.com
+RECURRENCE-ID;TZID=America/New_York:20121109T190000
+CREATED:20111203T181220Z
+DESCRIPTION:See http://nerdnyc.com/phpBB3/viewforum.php?f=32  for details.
+LAST-MODIFIED:20111203T181616Z
+LOCATION:ThinkCoffee\, 248 Mercer Street (between 3rd and 4th Streets)
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:NerdNYC Boardgame Night
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20121019T190000
+DTEND;TZID=America/New_York:20121019T230000
+DTSTAMP:20130413T155055Z
+UID:kvtojgpfmd0cpsnjn6mnheu2m0@google.com
+RECURRENCE-ID;TZID=America/New_York:20121012T190000
+CREATED:20111203T181220Z
+DESCRIPTION:See http://nerdnyc.com/phpBB3/viewforum.php?f=32  for details.
+LAST-MODIFIED:20111203T181602Z
+LOCATION:ThinkCoffee\, 248 Mercer Street (between 3rd and 4th Streets)
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:NerdNYC Boardgame Night
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20120810T190000
+DTEND;TZID=America/New_York:20120810T230000
+DTSTAMP:20130413T155055Z
+UID:kvtojgpfmd0cpsnjn6mnheu2m0@google.com
+RECURRENCE-ID;TZID=America/New_York:20120803T190000
+CREATED:20111203T181220Z
+DESCRIPTION:See http://nerdnyc.com/phpBB3/viewforum.php?f=32  for details.
+LAST-MODIFIED:20111203T181529Z
+LOCATION:ThinkCoffee\, 248 Mercer Street (between 3rd and 4th Streets)
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:NerdNYC Boardgame Night
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20120615T190000
+DTEND;TZID=America/New_York:20120615T230000
+DTSTAMP:20130413T155055Z
+UID:kvtojgpfmd0cpsnjn6mnheu2m0@google.com
+RECURRENCE-ID;TZID=America/New_York:20120608T190000
+CREATED:20111203T181220Z
+DESCRIPTION:See http://nerdnyc.com/phpBB3/viewforum.php?f=32  for details.
+LAST-MODIFIED:20111203T181453Z
+LOCATION:ThinkCoffee\, 248 Mercer Street (between 3rd and 4th Streets)
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:NerdNYC Boardgame Night
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20120518T190000
+DTEND;TZID=America/New_York:20120518T230000
+DTSTAMP:20130413T155055Z
+UID:kvtojgpfmd0cpsnjn6mnheu2m0@google.com
+RECURRENCE-ID;TZID=America/New_York:20120511T190000
+CREATED:20111203T181220Z
+DESCRIPTION:See http://nerdnyc.com/phpBB3/viewforum.php?f=32  for details.
+LAST-MODIFIED:20111203T181439Z
+LOCATION:ThinkCoffee\, 248 Mercer Street (between 3rd and 4th Streets)
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:NerdNYC Boardgame Night
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20120420T190000
+DTEND;TZID=America/New_York:20120420T230000
+DTSTAMP:20130413T155055Z
+UID:kvtojgpfmd0cpsnjn6mnheu2m0@google.com
+RECURRENCE-ID;TZID=America/New_York:20120413T190000
+CREATED:20111203T181220Z
+DESCRIPTION:See http://nerdnyc.com/phpBB3/viewforum.php?f=32  for details.
+LAST-MODIFIED:20111203T181419Z
+LOCATION:ThinkCoffee\, 248 Mercer Street (between 3rd and 4th Streets)
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:NerdNYC Boardgame Night
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20120406T190000
+DTEND;TZID=America/New_York:20120406T230000
+DTSTAMP:20130413T155055Z
+UID:kvtojgpfmd0cpsnjn6mnheu2m0@google.com
+RECURRENCE-ID;TZID=America/New_York:20120330T190000
+CREATED:20111203T181220Z
+DESCRIPTION:See http://nerdnyc.com/phpBB3/viewforum.php?f=32  for details.
+LAST-MODIFIED:20111203T181402Z
+LOCATION:ThinkCoffee\, 248 Mercer Street (between 3rd and 4th Streets)
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:NerdNYC Boardgame Night
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20120204T190000
+DTEND;TZID=America/New_York:20120204T230000
+DTSTAMP:20130413T155055Z
+UID:kvtojgpfmd0cpsnjn6mnheu2m0@google.com
+RECURRENCE-ID;TZID=America/New_York:20120203T190000
+CREATED:20111203T181220Z
+DESCRIPTION:See http://nerdnyc.com/phpBB3/viewforum.php?f=32  for details.
+LAST-MODIFIED:20111203T181233Z
+LOCATION:ThinkCoffee\, 248 Mercer Street (between 3rd and 4th Streets)
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:NerdNYC Boardgame Night
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20120120T190000
+DTEND;TZID=America/New_York:20120120T230000
+RRULE:FREQ=WEEKLY;UNTIL=20121222T000000Z;INTERVAL=2;BYDAY=FR
+EXDATE;TZID=America/New_York:20121221T190000
+EXDATE;TZID=America/New_York:20121123T190000
+EXDATE;TZID=America/New_York:20121026T190000
+EXDATE;TZID=America/New_York:20120928T190000
+EXDATE;TZID=America/New_York:20120831T190000
+EXDATE;TZID=America/New_York:20120817T190000
+EXDATE;TZID=America/New_York:20120706T190000
+EXDATE;TZID=America/New_York:20120622T190000
+EXDATE;TZID=America/New_York:20120525T190000
+EXDATE;TZID=America/New_York:20120427T190000
+DTSTAMP:20130413T155055Z
+UID:kvtojgpfmd0cpsnjn6mnheu2m0@google.com
+CREATED:20111203T181220Z
+DESCRIPTION:See http://nerdnyc.com/phpBB3/viewforum.php?f=32  for details.
+LAST-MODIFIED:20111203T181220Z
+LOCATION:ThinkCoffee\, 248 Mercer Street (between 3rd and 4th Streets)
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:NerdNYC Boardgame Night
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20111209T004500Z
+DTEND:20111209T024500Z
+DTSTAMP:20130413T155055Z
+UID:jgt3g1sngs8kc1n8k86055e0e8@google.com
+CREATED:20111110T151748Z
+DESCRIPTION:NOTE THE NEW LOCATION!\n\nHelp us end 2011 with an awesome triv
+ ia event - bring your ultimate nerd knowledge! Team size is limited to 6 pl
+ ayers - so choose your companions wisely! Who will become True Nerd Trivia'
+ s next champions and win that pie? Join us and find out!\n\nSuggested donat
+ ion $1 to feed the pie fund.\nJoin our Facebook page and get updates for al
+ l events.\n\n*There is another event that begins directly after ours\, so p
+ lease try to be on time :)\n\nFor all you newbies who have yet to experienc
+ e our brand of Trivia\, leave your knowledge of state capitals at home! For
+ get everything you learned in high school – we won’t be asking you any of t
+ hat stuff! Instead\, our questions are all about the important things in li
+ fe\, such as:\n\nGeography: What is the name of the region of Middle Earth 
+ where Hobbits live?\nScience and Tech: What device will allow a Delorean to
+  travel back in time?\nParazoology: How long would it take for you to be di
+ gested in the belly of the Sarlaac?\nSuperheroes: When Dick Grayson gets hi
+ s driver’s license – what car can he take for a spin?\n\nAnd much much more
+ !!!
+LAST-MODIFIED:20111130T201443Z
+LOCATION:Ryan's Irish Pub\, 151 2nd Avenue\, NYC
+SEQUENCE:3
+STATUS:CONFIRMED
+SUMMARY:True Nerd Trivia
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120114
+DTEND;VALUE=DATE:20120116
+DTSTAMP:20130413T155055Z
+UID:gm1t757n1159qf7chag9bnhv50@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=NerdNY
+ C Calendar;X-NUM-GUESTS=0:mailto:algqb78sbithpodn64kn0udcpc@group.calendar.
+ google.com
+CREATED:20111019T013420Z
+DESCRIPTION:NerdNYC's RECESS: an all-day gaming event in Manhattan!
+LAST-MODIFIED:20111119T175153Z
+LOCATION:440 Studios\, 440 Lafayette Street\, New York\, NY 10003
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Recess
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20111202
+DTEND;VALUE=DATE:20111205
+DTSTAMP:20130413T155055Z
+UID:cmfe8mfraf6fd0sursnubtm7ic@google.com
+CREATED:20111114T201634Z
+DESCRIPTION:http://anonycon.com/\n\nAnonyCon is an annual game convention t
+ hat brings people together to have fun\, help charity and showcase new game
+ s. Our schedule welcomes games of all types\, and we try to feature games e
+ ach year with opportunities for creative storytelling and problem solving. 
+ The links above show a few of the different categories of our events\, so p
+ lease explore.\n\n700 East Main St\, Stamford\, CT 
+LAST-MODIFIED:20111114T201711Z
+LOCATION:CT
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:AnonyCon
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120223
+DTEND;VALUE=DATE:20120227
+DTSTAMP:20130413T155055Z
+UID:k1bgbts5joaur5b6naejkdr0t8@google.com
+CREATED:20110706T194355Z
+DESCRIPTION:http://www.dexposure.com/events.html
+LAST-MODIFIED:20111114T184712Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Dreamation 2012
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120608
+DTEND;VALUE=DATE:20120610
+DTSTAMP:20130413T155055Z
+UID:8t1f4nhjmt8nv3hv3u696s011s@google.com
+CREATED:20111113T023223Z
+DESCRIPTION:http://njcon.org/
+LAST-MODIFIED:20111113T023237Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:NJCON
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120530
+DTEND;VALUE=DATE:20120604
+DTSTAMP:20130413T155055Z
+UID:bu1jklmo61lhkm1ujldvl6esp4@google.com
+CREATED:20111113T022850Z
+DESCRIPTION:http://www.originsgamefair.com/
+LAST-MODIFIED:20111113T022851Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Origins Game Fair
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120831
+DTEND;VALUE=DATE:20120904
+DTSTAMP:20130413T155055Z
+UID:o27qq5qogio6tueu1a071o1mjc@google.com
+CREATED:20111113T022654Z
+DESCRIPTION:http://dragoncon.org/
+LAST-MODIFIED:20111113T022655Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:DragonCon
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20121011
+DTEND;VALUE=DATE:20121015
+DTSTAMP:20130413T155055Z
+UID:oh34c4942juihq81grv9ecjli4@google.com
+CREATED:20111113T022504Z
+DESCRIPTION:http://www.newyorkcomiccon.com/
+LAST-MODIFIED:20111113T022504Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:New York Comic Con
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120330
+DTEND;VALUE=DATE:20120402
+DTSTAMP:20130413T155055Z
+UID:9tk199k8mu4ccun18598q0nq28@google.com
+CREATED:20111113T022259Z
+DESCRIPTION:http://www.iconsf.org/
+LAST-MODIFIED:20111113T022300Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:I-CON
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120406
+DTEND;VALUE=DATE:20120409
+DTSTAMP:20130413T155055Z
+UID:84v78v7cpa9f7pddcdug9ci6m0@google.com
+CREATED:20111113T022048Z
+DESCRIPTION:http://east.paxsite.com/
+LAST-MODIFIED:20111113T022049Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:PAX East
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120816
+DTEND;VALUE=DATE:20120820
+DTSTAMP:20130413T155055Z
+UID:tss70o55q4t7qrc3pn4mjh8hf8@google.com
+CREATED:20111113T022000Z
+DESCRIPTION:http://www.gencon.com/
+LAST-MODIFIED:20111113T022001Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Gencon
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20111115
+DTEND;VALUE=DATE:20111116
+DTSTAMP:20130413T155055Z
+UID:h1915qtsnd545egng92ahvvgfk@google.com
+CREATED:20111030T163209Z
+DESCRIPTION:Come watch SHE KILLS MONSTERS with us!\n\nWHAT? A Dungeons & Dr
+ agons-inspired action comedy!\n\nWHEN? Tuesday\, November 15th @ 7pm.\n\nWH
+ ERE? The Flea Theater - 41 White Street.\n\nHOW MUCH? Pay whatever you want
+ !\n\nMORE! "When Agnes comes across her deceased sister’s Dungeons & Dragon
+ s notebook\, she embarks on an action-packed adventure to discover more abo
+ ut her sibling than she previously cared to know. A high-octane comedy frau
+ ght with hostile fairies\, randy ogres\, and ‘90s pop culture."\n\nEVEN MOR
+ E: http://www.theflea.org/show_detail.php?page_type=0&page_id=3&show_id=98\
+ n\nTHEN WHAT? After the show\, join us and cast members around the corner a
+ t South’s (southsnyc.com) for free snacks and great drink specials!
+LAST-MODIFIED:20111030T163209Z
+LOCATION:The Flea Theater - 41 White Street.
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:nerdNYC hangout @ SHE KILLS MONSTERS!
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20111111
+DTEND;VALUE=DATE:20111114
+DTSTAMP:20130413T155055Z
+UID:sso0oq9hp9g7scvctshtcronto@google.com
+CREATED:20111030T162832Z
+DESCRIPTION:http://www.burningwheel.org/forum/showthread.php?11161-Burning-
+ Apocalypse-Con
+LAST-MODIFIED:20111030T162832Z
+LOCATION:NYC
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Burning Apocalypse Con
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20111110T003000Z
+DTEND:20111110T033000Z
+DTSTAMP:20130413T155055Z
+UID:j756k5oanqt67dmj7psnqru9qc@google.com
+CREATED:20111028T151644Z
+DESCRIPTION:The usual drinks\, fun and PRIZES are as fabulous as ever. And 
+ this is the month of the extra fancy MASCARPONE PUMPKIN PIE. You know you w
+ ant it! (Sorry\, not vegan this time :( )\n\nWho will become True Nerd Triv
+ ia’s next champions? Join us and find out!\n\nSuggested donation $1 to feed
+  the pie fund.\nJoin our Facebook page and get updates for all events.\n\n*
+ There is another event that begins directly after ours\, so please try to b
+ e on time :)\n\nFor all you newbies who have yet to experience our brand of
+  Trivia\, leave your knowledge of state capitals at home! Forget everything
+  you learned in high school – we won’t be asking you any of that stuff! Ins
+ tead\, our questions are all about the important things in life\, such as:\
+ n\nGeography: What is the name of the region of Middle Earth where Hobbits 
+ live?\nScience and Tech: What device will allow a Delorean to travel back i
+ n time?\nParazoology: How long would it take for you to be digested in the 
+ belly of the Sarlaac?\nSuperheroes: When Dick Grayson gets his driver’s lic
+ ense – what car can he take for a spin?\n\nAnd much much more!!!
+LAST-MODIFIED:20111028T151644Z
+LOCATION:Sweet Ups Bar: 277 Graham Ave\, Brooklyn\, NY
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:True Nerd Triva
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120825
+DTEND;VALUE=DATE:20120827
+DTSTAMP:20130413T155055Z
+UID:dqch8p454eb0jpmdtu4qq9599k@google.com
+CREATED:20111019T011939Z
+DESCRIPTION:http://www.facebook.com/pages/RetCon-Long-Islands-Gaming-Conven
+ tion/294767081134
+LAST-MODIFIED:20111019T011939Z
+LOCATION:Plainsview Long Island
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Retcon
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20111028T190000
+DTEND;TZID=America/New_York:20111028T230000
+DTSTAMP:20130413T155055Z
+UID:2arim5eq0dg36t80ueokijed7c@google.com
+RECURRENCE-ID;TZID=America/New_York:20111014T190000
+CREATED:20091116T215919Z
+DESCRIPTION:See http://nerdnyc.com/phpBB3/viewtopic.php?f=32&t=38670
+LAST-MODIFIED:20110909T174936Z
+LOCATION:ThinkCoffee\, 248 Mercer Street
+SEQUENCE:7
+STATUS:CONFIRMED
+SUMMARY:NerdNYC Boardgame Night
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20110916T230000Z
+DTEND:20110917T030000Z
+DTSTAMP:20130413T155055Z
+UID:unokbjedhpg4dfvecjp00ufda4@google.com
+CREATED:20110909T174808Z
+DESCRIPTION:See http://nerdnyc.com/phpBB3/viewtopic.php?f=32&t=38670
+LAST-MODIFIED:20110909T174809Z
+LOCATION:ThinkCoffee\, 248 Mercer Street
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:NerdNYC Boardgame Night
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20111008
+DTEND;VALUE=DATE:20111009
+DTSTAMP:20130413T155055Z
+UID:99mjvlboi7b4sn4ev2uq2ouk28@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=NerdNY
+ C Calendar;X-NUM-GUESTS=0:mailto:algqb78sbithpodn64kn0udcpc@group.calendar.
+ google.com
+CREATED:20110722T203205Z
+DESCRIPTION:NerdNYC's RECESS: an all-day gaming event in Manhattan!\n\nSee 
+ http://nerdnyc.com/wordpress/recess-saturday-october-8th-2011 for details.
+LAST-MODIFIED:20110901T182027Z
+LOCATION:440 Studios\, 440 Lafayette Street\, New York\, NY 10003
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Recess
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20110914T233000Z
+DTEND:20110915T023000Z
+DTSTAMP:20130413T155055Z
+UID:83e1u2qma5imjs41mpou2lfobs@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=NerdNY
+ C Calendar;X-NUM-GUESTS=0:mailto:algqb78sbithpodn64kn0udcpc@group.calendar.
+ google.com
+CREATED:20110829T153754Z
+DESCRIPTION:See http://nerdnyc.com/phpBB3/viewtopic.php?f=3&t=49847 for det
+ ails.
+LAST-MODIFIED:20110829T163430Z
+LOCATION:Sweet Ups Bar 277 Graham Ave in Brooklyn
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:True Nerd Trivia
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20110810T233000Z
+DTEND:20110811T023000Z
+DTSTAMP:20130413T155055Z
+UID:5ttfragfkli05alunltlqp2t2s@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=NerdNY
+ C Calendar;X-NUM-GUESTS=0:mailto:algqb78sbithpodn64kn0udcpc@group.calendar.
+ google.com
+CREATED:20110716T152201Z
+DESCRIPTION:See http://nerdnyc.com/phpBB3/viewtopic.php?f=3&t=49534  for de
+ tails
+LAST-MODIFIED:20110725T182904Z
+LOCATION:Sweet Ups Bar 277 Graham Ave in Brooklyn
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Nerd Trivia
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120704
+DTEND;VALUE=DATE:20120709
+DTSTAMP:20130413T155055Z
+UID:ni6mgc6kdcq9p2ci941c250rp4@google.com
+CREATED:20110706T194431Z
+DESCRIPTION:http://www.dexposure.com/events.html
+LAST-MODIFIED:20110706T194431Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Dexcon 15
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20111104
+DTEND;VALUE=DATE:20111107
+DTSTAMP:20130413T155055Z
+UID:r5h60gr2iinh38pl8rsnvjjtjg@google.com
+CREATED:20110706T194219Z
+DESCRIPTION:Game Design Festival:  http://www.dexposure.com/m2011.html
+LAST-MODIFIED:20110706T194219Z
+LOCATION:Morristown\, NJ
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Metatopia
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VFREEBUSY
+DTSTART:20110705T230000Z
+DTEND:20110706T010000Z
+DTSTAMP:20130413T155055Z
+UID:3bae09d8c48ff4545bff402ecfae1edcde540121@google.com
+ATTENDEE;X-NUM-GUESTS=0:mailto:algqb78sbithpodn64kn0udcpc@group.calendar.go
+ ogle.com
+SUMMARY:Busy
+END:VFREEBUSY
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20110708
+DTEND;VALUE=DATE:20110711
+DTSTAMP:20130413T155055Z
+UID:hcj17l16r39iih3lc7acoaof18@google.com
+CREATED:20110706T014546Z
+DESCRIPTION:http://connecticon.org/
+LAST-MODIFIED:20110706T014546Z
+LOCATION:Connecticon Convention Center\, Hartford CT
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Connecticon
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20110713T233000Z
+DTEND:20110714T023000Z
+DTSTAMP:20130413T155055Z
+UID:k6cki3acgj0bb4dhvoinjualls@google.com
+CREATED:20110622T150338Z
+DESCRIPTION:True Nerd Trivia is back!\n\nAnswer questions!   Have a good ti
+ me!  Win pie!\n
+LAST-MODIFIED:20110622T150338Z
+LOCATION:Royal Oak Lounge\, 594 Union Ave (between Frost St & Richardson St
+ ) Brooklyn\, NY 11211
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Nerd Trivia
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20110325T190000
+DTEND;TZID=America/New_York:20110325T230000
+RRULE:FREQ=WEEKLY;UNTIL=20110520T230000Z;INTERVAL=2;BYDAY=FR
+DTSTAMP:20130413T155055Z
+UID:evasf3kmf4os7hfcg0mkq70f38@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=NerdNY
+ C Calendar;X-NUM-GUESTS=0:mailto:algqb78sbithpodn64kn0udcpc@group.calendar.
+ google.com
+CREATED:20110111T182837Z
+DESCRIPTION:5 sessions of RPG games\, every 2 weeks.  See http://nerdnyc.co
+ m/phpBB3/viewtopic.php?f=20&t=41663&p=554875#p554875 for more info.
+LAST-MODIFIED:20110514T032456Z
+LOCATION:440 Studios\, 440 Lafayette Street\, Manhattan
+SEQUENCE:2
+STATUS:CONFIRMED
+SUMMARY:GGG
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20110504T230000Z
+DTEND:20110505T020000Z
+DTSTAMP:20130413T155055Z
+UID:q5k5bvn5gmkfhagi4i8q08hmus@google.com
+CREATED:20110415T164822Z
+DESCRIPTION:For all you newbies who have yet to experience our brand of Tri
+ via\, leave your knowledge of state capitals at home! Forget everything you
+  learned in high school - we won't be asking you any of that stuff! Instead
+ \, our questions are all about... the important things in life\, such as:\n
+ \nGeography: What is the name of the region of Middle Earth where Hobbits l
+ ive?\nScience and Tech: What device will allow a Delorean to travel back in
+  time?\nParazoology: How long would it take for you to be digested in the b
+ elly of the Sarlaac?\nSuperheroes: When Dick Grayson gets his driver's lice
+ nse - what car can he take for a spin?\n\nAnd much much more!!!
+LAST-MODIFIED:20110514T032456Z
+LOCATION:Royal Oak Lounge\, 594 Union Avenue\, Brooklyn NY 
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:True Nerd Trivia
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20110618
+DTEND;VALUE=DATE:20110619
+DTSTAMP:20130413T155055Z
+UID:po07ie0ana9cn2lfe91r3r7ag0@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=NerdNY
+ C Calendar;X-NUM-GUESTS=0:mailto:algqb78sbithpodn64kn0udcpc@group.calendar.
+ google.com
+CREATED:20110321T215538Z
+DESCRIPTION:An all-day gaming event full of RPGs\, Boardgames and more! \n\
+ nThe theme for this time around is VIDEO GAMES!
+LAST-MODIFIED:20110514T032456Z
+LOCATION:440 Studios\, 440 Lafayette Street\, New York\, NY 10003
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:RECESS
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20110507T160000Z
+DTEND:20110507T220000Z
+DTSTAMP:20130413T155055Z
+UID:njc40ac21v4fopkpmlm08l49kk@google.com
+CREATED:20110328T171252Z
+DESCRIPTION:Noon to Dusk!\n\nLong ago when Nerdnyc was young\, in the month
+ s of green grass and fair weather we would gather OUTSIDE! In the sun! To e
+ at picnic food\, have fun\, and perhaps play games (including those involvi
+ ng running around with balls or disks).\n\nAs with all Nerdnyc events\, eve
+ ryone is welcome. No nerdnic experience necessary!\n\nRegarding food\, it's
+  a bring-what-you-want-to-eat affair. Central Park doesn't allow grilling\,
+  and we recommend keeping it simple and avoiding unnecessary waste.\n\nYay\
+ , Nerdnic!\n\nStay tuned for exact location!
+LAST-MODIFIED:20110402T053240Z
+LOCATION:Central Park\, location to be announced
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:NerdNic: Nerdnyc Picnic!
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20110513
+DTEND;VALUE=DATE:20110515
+DTSTAMP:20130413T155055Z
+UID:o8mdtvo89la4djoh9gjklde5ag@google.com
+CREATED:20110203T031816Z
+DESCRIPTION:See http://njcon.org/index.shtml for details.
+LAST-MODIFIED:20110215T060645Z
+LOCATION:Somerset\, NJ
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:NJCON
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20110401T190000
+DTEND;TZID=America/New_York:20110401T230000
+DTSTAMP:20130413T155055Z
+UID:2arim5eq0dg36t80ueokijed7c@google.com
+RECURRENCE-ID;TZID=America/New_York:20110408T190000
+CREATED:20091116T215919Z
+DESCRIPTION:See http://nerdnyc.com/phpBB3/viewtopic.php?f=32&t=38670
+LAST-MODIFIED:20110121T032434Z
+LOCATION:ThinkCoffee\, 248 Mercer Street
+SEQUENCE:2
+STATUS:CONFIRMED
+SUMMARY:NerdNYC Boardgame Night
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20110415
+DTEND;VALUE=DATE:20110418
+DTSTAMP:20130413T155055Z
+UID:k6nrkdtp836i2v1bnehk5cpeeo@google.com
+CREATED:20110105T160252Z
+DESCRIPTION:See http://www.iconsf.org/  for details
+LAST-MODIFIED:20110121T032434Z
+LOCATION:Stony Brook University
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:I-CON
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20110115T110000
+DTEND;TZID=America/New_York:20110115T223000
+RRULE:FREQ=DAILY;UNTIL=20110116T160000Z
+DTSTAMP:20130413T155055Z
+UID:1fnavv8kv4dd1hvc8p8q5nlhs8@google.com
+CREATED:20101201T195722Z
+DESCRIPTION:
+LAST-MODIFIED:20101210T030740Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:RECESS
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20100507T190000
+DTEND;TZID=America/New_York:20100507T230000
+DTSTAMP:20130413T155055Z
+UID:ob1n85de8hnchv58adfosdmdvo@google.com
+RECURRENCE-ID;TZID=America/New_York:20100514T190000
+CREATED:20091116T215919Z
+DESCRIPTION:See http://nerdnyc.com/phpBB3/viewtopic.php?f=32&t=38670
+LAST-MODIFIED:20101119T050613Z
+LOCATION:ThinkCoffee\, 248 Mercer Street
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:NerdNYC Boardgame Night
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20100716T190000
+DTEND;TZID=America/New_York:20100716T230000
+DTSTAMP:20130413T155055Z
+UID:ob1n85de8hnchv58adfosdmdvo@google.com
+RECURRENCE-ID;TZID=America/New_York:20100709T190000
+CREATED:20091116T215919Z
+DESCRIPTION:See http://nerdnyc.com/phpBB3/viewtopic.php?f=32&t=38670
+LAST-MODIFIED:20101119T050613Z
+LOCATION:ThinkCoffee\, 248 Mercer Street
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:NerdNYC Boardgame Night
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20100212T190000
+DTEND;TZID=America/New_York:20100212T230000
+RRULE:FREQ=MONTHLY;BYDAY=2FR;WKST=SU;UNTIL=20101210T045959Z
+DTSTAMP:20130413T155055Z
+UID:ob1n85de8hnchv58adfosdmdvo@google.com
+CREATED:20091116T215919Z
+DESCRIPTION:See http://nerdnyc.com/phpBB3/viewtopic.php?f=32&t=38670
+LAST-MODIFIED:20101119T050613Z
+LOCATION:ThinkCoffee\, 248 Mercer Street
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:NerdNYC Boardgame Night
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20110715T190000
+DTEND;TZID=America/New_York:20110715T230000
+DTSTAMP:20130413T155055Z
+UID:2arim5eq0dg36t80ueokijed7c@google.com
+RECURRENCE-ID;TZID=America/New_York:20110708T190000
+CREATED:20091116T215919Z
+DESCRIPTION:See http://nerdnyc.com/phpBB3/viewtopic.php?f=32&t=38670
+LAST-MODIFIED:20101119T050613Z
+LOCATION:ThinkCoffee\, 248 Mercer Street
+SEQUENCE:2
+STATUS:CONFIRMED
+SUMMARY:NerdNYC Boardgame Night
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20110304T190000
+DTEND;TZID=America/New_York:20110304T230000
+DTSTAMP:20130413T155055Z
+UID:2arim5eq0dg36t80ueokijed7c@google.com
+RECURRENCE-ID;TZID=America/New_York:20110311T190000
+CREATED:20091116T215919Z
+DESCRIPTION:See http://nerdnyc.com/phpBB3/viewtopic.php?f=32&t=38670
+LAST-MODIFIED:20101119T050613Z
+LOCATION:ThinkCoffee\, 248 Mercer Street
+SEQUENCE:2
+STATUS:CONFIRMED
+SUMMARY:NerdNYC Boardgame Night
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20110107T190000
+DTEND;TZID=America/New_York:20110107T230000
+DTSTAMP:20130413T155055Z
+UID:2arim5eq0dg36t80ueokijed7c@google.com
+RECURRENCE-ID;TZID=America/New_York:20110114T190000
+CREATED:20091116T215919Z
+DESCRIPTION:See http://nerdnyc.com/phpBB3/viewtopic.php?f=32&t=38670
+LAST-MODIFIED:20101119T050613Z
+LOCATION:ThinkCoffee\, 248 Mercer Street
+SEQUENCE:2
+STATUS:CONFIRMED
+SUMMARY:NerdNYC Boardgame Night
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20101210T190000
+DTEND;TZID=America/New_York:20101210T230000
+RRULE:FREQ=MONTHLY;UNTIL=20111210T000000Z;BYDAY=2FR;WKST=SU
+DTSTAMP:20130413T155055Z
+UID:2arim5eq0dg36t80ueokijed7c@google.com
+CREATED:20091116T215919Z
+DESCRIPTION:See http://nerdnyc.com/phpBB3/viewtopic.php?f=32&t=38670
+LAST-MODIFIED:20101119T050613Z
+LOCATION:ThinkCoffee\, 248 Mercer Street
+SEQUENCE:2
+STATUS:CONFIRMED
+SUMMARY:NerdNYC Boardgame Night
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20110924
+DTEND;VALUE=DATE:20110926
+DTSTAMP:20130413T155055Z
+UID:h94p9odqdq1q2ufljbl3qge7fg@google.com
+CREATED:20101022T204258Z
+DESCRIPTION:For details\, see http://www.wizardworld.com/home-apple.html
+LAST-MODIFIED:20101119T050613Z
+LOCATION:Penn Plaza Pavilion
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:NYC Big Apple Con
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20110123
+DTEND;VALUE=DATE:20110124
+DTSTAMP:20130413T155055Z
+UID:bc7ak75uc7sjn2jc84kn2hh7dc@google.com
+CREATED:20101022T221344Z
+DESCRIPTION:
+LAST-MODIFIED:20101119T050612Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:JiffyCon
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20110622
+DTEND;VALUE=DATE:20110627
+DTSTAMP:20130413T155055Z
+UID:6hmumcip3gt728532dq9gn32os@google.com
+CREATED:20101012T195657Z
+DESCRIPTION:See http://www.originsgames.com/ for details.
+LAST-MODIFIED:20101012T195657Z
+LOCATION:Columbus\, OH
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Origins
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20110902
+DTEND;VALUE=DATE:20110906
+DTSTAMP:20130413T155055Z
+UID:l5dvlcq3cakvuob96ta742ovoc@google.com
+CREATED:20101012T195607Z
+DESCRIPTION:See http://www.dragoncon.org/ for details.
+LAST-MODIFIED:20101012T195607Z
+LOCATION:Atlanta\, GA
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:DragonCon
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20110311
+DTEND;VALUE=DATE:20110314
+DTSTAMP:20130413T155055Z
+UID:63fsi4tv7dldso8prmaghemkrs@google.com
+CREATED:20101012T195509Z
+DESCRIPTION:See http://www.paxsite.com/paxeast/index.php for details.
+LAST-MODIFIED:20101012T195509Z
+LOCATION:Boston\, MA
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:PAX East
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20110804
+DTEND;VALUE=DATE:20110808
+DTSTAMP:20130413T155055Z
+UID:l1qbaffesbo1j7r3dp1ni1tsis@google.com
+CREATED:20101012T195351Z
+DESCRIPTION:See http://www.gencon.com/ for details
+LAST-MODIFIED:20101012T195351Z
+LOCATION:Indiannapolis
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:GenCon
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20110521
+DTEND;VALUE=DATE:20110523
+DTSTAMP:20130413T155055Z
+UID:hm9d4gvqfhm4mrejummi3qdoc0@google.com
+CREATED:20101012T195224Z
+DESCRIPTION:See http://www.wizardworld.com/wizcon.html for details as they 
+ become available.
+LAST-MODIFIED:20101012T195224Z
+LOCATION:Penn Plaza Pavilion
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Big Apple Comic Con - Spring Edition
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20111014
+DTEND;VALUE=DATE:20111017
+DTSTAMP:20130413T155055Z
+UID:15icm6l19eqbqkqmfub35svork@google.com
+CREATED:20101012T194952Z
+DESCRIPTION:See http://www.newyorkcomiccon.com/ for details.
+LAST-MODIFIED:20101012T194952Z
+LOCATION:Javits Center\, NYC
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:New York Comic Con
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20110706
+DTEND;VALUE=DATE:20110711
+DTSTAMP:20130413T155055Z
+UID:vrki5g39nbru8nlnlrjrapaa98@google.com
+CREATED:20101012T194634Z
+DESCRIPTION:See http://www.dexposure.com/home.html for details as they are 
+ available.
+LAST-MODIFIED:20101012T194635Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:DexCon 14
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20110224
+DTEND;VALUE=DATE:20110228
+DTSTAMP:20130413T155055Z
+UID:ge6scuv95ek4b953cshstir5go@google.com
+CREATED:20101012T194548Z
+DESCRIPTION:See http://www.dexposure.com/home.html for details as they are 
+ available.
+LAST-MODIFIED:20101012T194548Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Dreamation
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20100911
+DTEND;VALUE=DATE:20100912
+DTSTAMP:20130413T155055Z
+UID:g9mc2pqt4snptglvn5f6d0uu34@google.com
+CREATED:20100709T212844Z
+DESCRIPTION:We are pleased to present you with the next installment of Rece
+ ss on September 18th\, 2010 to be held at our partner location 440 Studios 
+ in Manhattan from Noon-10pm.\n\nWe will have the RPG and Board Game Submiss
+ ion threads up and running here shortly.\n\nPlease join us on September 18t
+ h for fun and games! Admission for the day is $20 per person\, with free ad
+ mission to those who volunteer for at least four hours (running games or he
+ lping the support staff).\n\nGaming will be held from 12-4pm and 6-10pm\; D
+ oors open at 11am for set-up and 11:30 for the first round of registration.
+ \n\nLocation:\n440 Studios\n440 Lafayette Street\nNew York\, NY 10003\n\nSu
+ bways: 6 (Astor Place)\, N\,R (8th Street)\nDirections: http://440studios.c
+ om/how-do-i-get-there/
+LAST-MODIFIED:20100807T232835Z
+LOCATION:
+SEQUENCE:2
+STATUS:CONFIRMED
+SUMMARY:Recess
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20100903
+DTEND;VALUE=DATE:20100906
+DTSTAMP:20130413T155055Z
+UID:d43j1agdl5mbltqbqseukr13do@google.com
+CREATED:20100630T145657Z
+DESCRIPTION:See http://www.paxsite.com/paxprime/index.php
+LAST-MODIFIED:20100711T102544Z
+LOCATION:Seattle\, WA
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:PAX 2010
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20101008
+DTEND;VALUE=DATE:20101011
+DTSTAMP:20130413T155055Z
+UID:us27cpog233s8skdt1oe1tjajs@google.com
+CREATED:20100630T145359Z
+DESCRIPTION:See http://www.newyorkcomiccon.com/
+LAST-MODIFIED:20100711T102543Z
+LOCATION:Jabob K. Javits Center
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:New York Comic Con
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20100819T000000Z
+DTEND:20100819T020000Z
+DTSTAMP:20130413T155055Z
+UID:21u07pmsojt4nm48is5j1b3j88@google.com
+CREATED:20100625T161007Z
+DESCRIPTION:Nerd Trivia 1-year anniversary! 
+LAST-MODIFIED:20100711T102543Z
+LOCATION:Royal Oak Lounge\, 594 Union Ave\, Brooklyn\, NY
+SEQUENCE:4
+STATUS:CONFIRMED
+SUMMARY:Nerd Trivia
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20101001
+DTEND;VALUE=DATE:20101004
+DTSTAMP:20130413T155055Z
+UID:92gmsudba7i6immn7j99idi6cg@google.com
+CREATED:20100630T145458Z
+DESCRIPTION:See http://www.wizardworld.com/home-apple.html
+LAST-MODIFIED:20100711T102543Z
+LOCATION:Penn Plaza Pavilion
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Big Apple Comic Con
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20100903
+DTEND;VALUE=DATE:20100907
+DTSTAMP:20130413T155055Z
+UID:jp5r4369bsvv3cu1ekuk602vrg@google.com
+CREATED:20100630T145744Z
+DESCRIPTION:See http://www.dragoncon.org/
+LAST-MODIFIED:20100711T102543Z
+LOCATION:Altanta\, GA
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:DragonCon
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20100708T000000Z
+DTEND:20100708T020000Z
+DTSTAMP:20130413T155055Z
+UID:kfp7mu6j3pu0v0h3fkg9i56s78@google.com
+CREATED:20100708T214451Z
+DESCRIPTION:Nerd Trivia!  See http://nerdnyc.com/phpBB3/viewtopic.php?f=3&t
+ =46261 for details
+LAST-MODIFIED:20100711T102543Z
+LOCATION:Royal Oak Lounge\, 594 Union Ave\, Brooklyn\, NY
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Nerd Trivia
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20101119
+DTEND;VALUE=DATE:20101122
+DTSTAMP:20130413T155055Z
+UID:3f01q4umhq6t2sgic2am2qqgrg@google.com
+CREATED:20100630T145912Z
+DESCRIPTION:See http://philcon.org/
+LAST-MODIFIED:20100711T102543Z
+LOCATION:Crowne Plaza Hotel\, Cherry Hill\, NJ
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:PhilCon 2010
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20100709
+DTEND;VALUE=DATE:20100712
+DTSTAMP:20130413T155055Z
+UID:jjph87h3udv6e0qknrn3c900o0@google.com
+CREATED:20100630T145608Z
+DESCRIPTION:See http://connecticon.org/
+LAST-MODIFIED:20100711T102543Z
+LOCATION:Connecticut Convention Center\, Hartford\, CT
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:ConnectiCon
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20101105
+DTEND;VALUE=DATE:20101108
+DTSTAMP:20130413T155055Z
+UID:a7ftnu6nk1ran4cr9875s7b92o@google.com
+CREATED:20100629T215004Z
+DESCRIPTION:See http://www.ubercon.com/
+LAST-MODIFIED:20100711T102543Z
+LOCATION:Edison\, NJ
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Ubercon XIII
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20100619T160000Z
+DTEND:20100620T020000Z
+DTSTAMP:20130413T155055Z
+UID:vj2u8mo3i02nah4b60v211ss6s@google.com
+CREATED:20100510T194147Z
+DESCRIPTION:We are pleased to present you with the Spring installment of Re
+ cess on June 19th\, 2010 at a new location at 440 Studios in Manhattan!  fr
+ om Noon-10pm.\n\nSpring Recess is right around the corner and we will have 
+ the RPG and Board Game Submission threads up and running here shortly.\n\nS
+ adly\, our beloved Bric is under extended renovations and we're forced to r
+ elocate. Happily we're partnering with 440 Studios to bring you Recess in a
+  new easy to get to\, central location in Manhattan with fantastic food opt
+ ions and post Recess social opportunities!\n\nPlease join us on June 19th f
+ or fun and games! Admission for the day is $20 per person\, with free admis
+ sion to volunteers that run games at least four hours of games.\n\nGaming w
+ ill be held from 12-4pm and 6-10pm\; Doors open at 11am for set-up and 11:3
+ 0 for the first round of registration.\n\nLocation:\n440 Studios\n440 Lafay
+ ette Street\nNew York\, NY 10003\n\nSubways: 6 (Astor Place)\, N\,R (8th St
+ reet)\nDirections: http://440studios.com/how-do-i-get-there/
+LAST-MODIFIED:20100510T194147Z
+LOCATION:440 Studios\, 440 Lafayette Street\, NYC
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Recess
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20100401T000000Z
+DTEND:20100401T020000Z
+DTSTAMP:20130413T155055Z
+UID:v9tlpcc7breevmdjprdhg9mas0@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=NerdNY
+ C Calendar;X-NUM-GUESTS=0:mailto:algqb78sbithpodn64kn0udcpc@group.calendar.
+ google.com
+CREATED:20100322T213548Z
+DESCRIPTION:That's right people - time again to showcase your trivial nerd 
+ knowledge!\n\nWill the Sinister Six retain their title? Will a new victor e
+ merge? What kind of pie will be the prize?\n\nWarm up those brain cells and
+  take a crack at the #1 spot at our usual haunt: The Royal Oak Lounge.\n\nW
+ hen: Wednesday March 31st at 8pm\nWhere: The Royal Oak lounge - 594 Union A
+ ve.\, Brooklyn\nSuggested Donation $10*\n\nJoin us for GLORIOUS Prizes incl
+ uding free drink tickets and the highly sought after home-baked pie! Win th
+ e coveted "Asshole" buttons! And most importantly-those bragging rights!\n\
+ n*Proceeds from this event help to fund Figment Theater\, a playhouse dedic
+ ated to bringing nerdy plays to the public.
+LAST-MODIFIED:20100415T095033Z
+LOCATION:Royal Oak lounge - 594 Union Ave.\, Brooklyn
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:NerdTrivia
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20100419T223000Z
+DTEND:20100420T003000Z
+DTSTAMP:20130413T155055Z
+UID:qhdh87t0nfvmfltok52brdbkqc@google.com
+CREATED:20100402T201504Z
+DESCRIPTION:Join your fellow nerds in judging the city's reportedly best bu
+ rger joints!
+LAST-MODIFIED:20100415T095033Z
+LOCATION:Rub BBQ - 208 w. 23rd Street (http://www.rubbbq.net/)
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:NerdBurger
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20100429T000000Z
+DTEND:20100429T020000Z
+DTSTAMP:20130413T155055Z
+UID:paq7bmdkjui453ut9p6gm6k4jc@google.com
+CREATED:20100411T024028Z
+DESCRIPTION:That's right people - time again to showcase your trivial nerd 
+ knowledge!\n\nWill a new victor emerge? What kind of pie will be the prize?
+ \n\nWarm up those brain cells and take a crack at the #1 spot at our usual 
+ haunt: The Royal Oak Lounge.\n\nWhen: Wednesday March 31st at 8pm\nWhere: T
+ he Royal Oak lounge - 594 Union Ave.\, Brooklyn\n\nJoin us for GLORIOUS Pri
+ zes including free drink tickets and the highly sought after home-baked pie
+ ! Win the coveted "Asshole" buttons! And most importantly-those bragging ri
+ ghts!\n
+LAST-MODIFIED:20100415T095033Z
+LOCATION:Royal Oak lounge - 594 Union Ave.\, Brooklyn
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:NerdTrivia
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20100307T160000Z
+DTEND:20100307T190000Z
+DTSTAMP:20130413T155055Z
+UID:2528ap3rngb954112h1a45mqhc@google.com
+CREATED:20100226T232101Z
+DESCRIPTION:Nerds+Ice+Badminton. It's possible that Iceminton may devolve i
+ nto a full contact sport. Iceminton is an all weather endeavor. So weather 
+ or not\, join Ice Princess and I and an elite cast from the nerdherd as we'
+ re takin it to the sleet.
+LAST-MODIFIED:20100312T081638Z
+LOCATION:Central Park
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Nerd Iceminton
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20100416T230000Z
+DTEND:20100417T030000Z
+DTSTAMP:20130413T155055Z
+UID:ms8dlnliop9kgttf8du9frjj9g@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=NerdNY
+ C Calendar;X-NUM-GUESTS=0:mailto:algqb78sbithpodn64kn0udcpc@group.calendar.
+ google.com
+CREATED:20100203T184721Z
+DESCRIPTION:The Gotham Gaming Guild!\n\nCheck out:  http://nerdnyc.com/phpB
+ B3/viewtopic.php?t=44735
+LAST-MODIFIED:20100219T051315Z
+LOCATION:440 Studios
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:GGG
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20100514T230000Z
+DTEND:20100515T030000Z
+DTSTAMP:20130413T155055Z
+UID:5k178288rlrr2qdfhhv0cr9j7g@google.com
+CREATED:20100203T184841Z
+DESCRIPTION:The Gotham Gaming Guild!\n\nCheck out:  http://nerdnyc.com/phpB
+ B3/viewtopic.php?t=44735
+LAST-MODIFIED:20100219T051315Z
+LOCATION:440 Studios
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:GGG
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20100430T230000Z
+DTEND:20100501T030000Z
+DTSTAMP:20130413T155055Z
+UID:o2pddm9r1l0upmpp4mn1oqmfak@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=NerdNY
+ C Calendar;X-NUM-GUESTS=0:mailto:algqb78sbithpodn64kn0udcpc@group.calendar.
+ google.com
+CREATED:20100203T184804Z
+DESCRIPTION:The Gotham Gaming Guild!\n\nCheck out:  http://nerdnyc.com/phpB
+ B3/viewtopic.php?t=44735
+LAST-MODIFIED:20100219T051315Z
+LOCATION:440 Studios
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:GGG
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20100224T233000Z
+DTEND:20100225T023000Z
+DTSTAMP:20130413T155055Z
+UID:rkvjda4rarrlhjphkq445j7bng@google.com
+CREATED:20100203T185206Z
+DESCRIPTION:NerdBurger is a gathering of Nerds who hit local burgeries to f
+ ind the city's best ground round.\n\nCheck it out:  http://nerdnyc.com/phpB
+ B3/viewtopic.php?t=44738\n\nAnyone is welcome to come!
+LAST-MODIFIED:20100219T051315Z
+LOCATION:TBD
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:NerdBurger!
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20100218T010000Z
+DTEND:20100218T030000Z
+DTSTAMP:20130413T155055Z
+UID:reqeele12kmt3octlgmkf14cdk@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=NerdNY
+ C Calendar;X-NUM-GUESTS=0:mailto:algqb78sbithpodn64kn0udcpc@group.calendar.
+ google.com
+CREATED:20100203T183504Z
+DESCRIPTION:Nerd Trivia Contest!\n\nWhen: Wednesday February 17th at 8pm\nW
+ here: The Royal Oak lounge - 594 Union Ave.\, Brooklyn\nSuggested Donation 
+ $10*\n
+LAST-MODIFIED:20100219T051315Z
+LOCATION:Royal Oak lounge - 594 Union Ave.\, Brooklyn
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:NerdTrivia
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20100402T230000Z
+DTEND:20100403T030000Z
+DTSTAMP:20130413T155055Z
+UID:cbqvap6jkc58il4dpdlsj54qts@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=NerdNY
+ C Calendar;X-NUM-GUESTS=0:mailto:algqb78sbithpodn64kn0udcpc@group.calendar.
+ google.com
+CREATED:20100203T184650Z
+DESCRIPTION:The Gotham Gaming Guild!\n\nCheck out:  http://nerdnyc.com/phpB
+ B3/viewtopic.php?t=44735
+LAST-MODIFIED:20100219T051315Z
+LOCATION:440 Studios
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:GGG
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20100121T010000Z
+DTEND:20100121T030000Z
+DTSTAMP:20130413T155055Z
+UID:fngrmq66vt839l3j6234oab25k@google.com
+CREATED:20100107T220324Z
+DESCRIPTION:Nerdy Trivia Contest!\nSuggested Donation of $10 is appreciated
+ \; all proceeds go to Figment Theater\, to produce Nerdy plays!
+LAST-MODIFIED:20100127T051901Z
+LOCATION:Royal Oak Lounge -- 594 Union Ave\, Brooklyn
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:NerdTrivia
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20100130
+DTEND;VALUE=DATE:20100201
+DTSTAMP:20130413T155055Z
+UID:6t1nvng58e9ps7d4jq4bpdv25k@google.com
+CREATED:20091123T225529Z
+DESCRIPTION:For more information (times\, admission\, games) please visit:\
+ nhttp://nerdnyc.com/phpBB3/viewtopic.php?t=44162
+LAST-MODIFIED:20100127T051901Z
+LOCATION:BRIC Studios\, 647 Fulton Street\, Brooklyn\, NY 11217
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Nerd by Nerd East: 2 days of Recess
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20100101
+DTEND;VALUE=DATE:20100102
+DTSTAMP:20130413T155055Z
+UID:tt7u89hit4m8i7esm71dfrioho@google.com
+CREATED:20091221T132734Z
+DESCRIPTION:http://www.nerdnyc.com/phpBB3/viewtopic.php?t=44124
+LAST-MODIFIED:20091222T082050Z
+LOCATION:Astoria\, Queens\, NYC
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Nerd New Year Party: details coming soon...
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20100306
+DTEND;VALUE=DATE:20100307
+DTSTAMP:20130413T155055Z
+UID:jpc93mcuv1vv9mq063724valjc@google.com
+CREATED:20091212T211814Z
+DESCRIPTION:Nerd.NYC officers quarterly meeting
+LAST-MODIFIED:20091222T082050Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Officer's Meeting
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20091029T200000
+DTEND;TZID=America/New_York:20091030T000000
+RRULE:FREQ=DAILY;UNTIL=20091109T010000Z;WKST=SU
+DTSTAMP:20130413T155055Z
+UID:878174hogptq5r36ajfrrse598@google.com
+CREATED:20091022T045747Z
+DESCRIPTION:A night of 3 original one-act plays featuring classic movie mon
+ sters!\nTickets $20 in advance\, $25 at the door\n
+LAST-MODIFIED:20091130T065923Z
+LOCATION:Access Theather (380 Broadway\, 4th Floor)
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Monster Uprising
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20100805
+DTEND;VALUE=DATE:20100809
+DTSTAMP:20130413T155055Z
+UID:qhu2mq9p50u3rcha8aadaoq76o@google.com
+CREATED:20091112T223018Z
+DESCRIPTION:http://www.gencon.com/
+LAST-MODIFIED:20091130T065923Z
+LOCATION:Indianapolis\, Indiana
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:GenCon
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20100622
+DTEND;VALUE=DATE:20100628
+DTSTAMP:20130413T155055Z
+UID:5iqon9ftt2g752q8337k0er1io@google.com
+CREATED:20091112T223637Z
+DESCRIPTION:http://www.originsgamefair.com/
+LAST-MODIFIED:20091130T065923Z
+LOCATION:Columbus\, OH
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Origins Game Fair
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20100326
+DTEND;VALUE=DATE:20100329
+DTSTAMP:20130413T155055Z
+UID:l69q3btjbej33edjc1f16204m8@google.com
+CREATED:20091112T223129Z
+DESCRIPTION:http://www.iconsf.org/
+LAST-MODIFIED:20091130T065923Z
+LOCATION:Stony Brook University
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:I-CON
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20100218
+DTEND;VALUE=DATE:20100222
+DTSTAMP:20130413T155055Z
+UID:bs4ubkd0bangrqkrm48na3bnt8@google.com
+CREATED:20091017T171327Z
+DESCRIPTION:
+LAST-MODIFIED:20091130T065923Z
+LOCATION:Morristown Convention Center
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Dreamation 2010
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20091106
+DTEND;VALUE=DATE:20091109
+DTSTAMP:20130413T155055Z
+UID:a5gr6qdc2f0e9ud45ssovkh20s@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=NerdNY
+ C Calendar;X-NUM-GUESTS=0:mailto:algqb78sbithpodn64kn0udcpc@group.calendar.
+ google.com
+CREATED:20081203T233412Z
+DESCRIPTION:http://www.ubercon.com/
+LAST-MODIFIED:20091130T065923Z
+LOCATION:3050 Woodbridge Avenue\, Edison\, NJ 08837
+SEQUENCE:2
+STATUS:CONFIRMED
+SUMMARY:UberCon
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20100707
+DTEND;VALUE=DATE:20100712
+DTSTAMP:20130413T155055Z
+UID:mu5pr1mi0pear0iergtm1tl52o@google.com
+CREATED:20091112T223440Z
+DESCRIPTION:http://www.dexposure.com/home.html
+LAST-MODIFIED:20091130T065923Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:DexCon
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20091212T180000Z
+DTEND:20091212T200000Z
+DTSTAMP:20130413T155055Z
+UID:b3073lmgol1cp635npbic61pgg@google.com
+CREATED:20091010T194938Z
+DESCRIPTION:
+LAST-MODIFIED:20091130T065923Z
+LOCATION:
+SEQUENCE:2
+STATUS:CONFIRMED
+SUMMARY:Nerd.NYC Officer Meeting
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20100123T000000Z
+DTEND:20100123T040000Z
+DTSTAMP:20130413T155055Z
+UID:cqlohdq31oggf24aue411idpe8@google.com
+CREATED:20091116T215711Z
+DESCRIPTION:See http://nerdnyc.com/phpBB3/viewtopic.php?f=32&t=38670
+LAST-MODIFIED:20091130T065923Z
+LOCATION:ThinkCoffee\, 248 Mercer Street
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:NerdNYC Boardgame Night
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20100123
+DTEND;VALUE=DATE:20100124
+DTSTAMP:20130413T155055Z
+UID:2n8n97kla2p2j2osuqu90ek880@google.com
+CREATED:20091103T200835Z
+DESCRIPTION:An all-day event featuring Warhammer 40K\, Warhammer Fantasy Ba
+ ttle\, Space Hulk\, and others.
+LAST-MODIFIED:20091130T065922Z
+LOCATION:BRIC Studios
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:NerdNYC Wargaming Day
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20091101T140000
+DTEND;TZID=America/New_York:20091101T180000
+DTSTAMP:20130413T155055Z
+UID:878174hogptq5r36ajfrrse598@google.com
+RECURRENCE-ID;TZID=America/New_York:20091101T200000
+CREATED:20091022T045747Z
+DESCRIPTION:A night of 3 original one-act plays featuring classic movie mon
+ sters!\nTickets $20 in advance\, $25 at the door\n
+LAST-MODIFIED:20091130T065922Z
+LOCATION:Access Theather (380 Broadway\, 4th Floor)
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Monster Uprising
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20100326
+DTEND;VALUE=DATE:20100329
+DTSTAMP:20130413T155055Z
+UID:afr36eivbpkld6hef3bmns7bs8@google.com
+CREATED:20091116T202033Z
+DESCRIPTION:http://www.paxsite.com/paxeast/
+LAST-MODIFIED:20091130T065922Z
+LOCATION:Boston\, MA
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:PAX East
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20091108T140000
+DTEND;TZID=America/New_York:20091108T180000
+DTSTAMP:20130413T155055Z
+UID:878174hogptq5r36ajfrrse598@google.com
+RECURRENCE-ID;TZID=America/New_York:20091108T200000
+CREATED:20091022T045747Z
+DESCRIPTION:A night of 3 original one-act plays featuring classic movie mon
+ sters!\nTickets $20 in advance\, $25 at the door\n
+LAST-MODIFIED:20091130T065922Z
+LOCATION:Access Theather (380 Broadway\, 4th Floor)
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Monster Uprising
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20091121T160000Z
+DTEND:20091122T040000Z
+DTSTAMP:20130413T155055Z
+UID:bg51jfc2oe8adv1amfejagtgp4@google.com
+CLASS:PUBLIC
+CREATED:20090707T184341Z
+DESCRIPTION:NerdNYC invites you on Saturday\, November 21st (in 2 weeks) to
+  our annual ThanksNerding event. A day of gaming\, potluck dining\, and han
+ ging out with friendly nerds!\n\nWHAT’S NEW:\n- An extra hour of gaming!\n-
+  Nerd Trivia!\n\nADMISSION:\n- Free!\n- Just bring food to share.\n\nDONATI
+ ONS:\n- Consider giving a donation of $5-10.\n- This helps us pay BRIC for 
+ the use of their generous space.\n\nFOOD:\n- We provide plates\, napkins & 
+ utensils. To reduce waste\, consider bringing your own.\n- The rest\, the f
+ ood\, is up to you!\n- Please label food: meat\, vegetarian\, vegan\, dairy
+ \, nuts\, shellfish\n\nSCHEDULE:\n- 11:00 am : doors open\n- 12:00 pm : gam
+ es\n- 04:00 pm : food\n- 05:00 pm : announcements\n- 05:30 pm : NEW – nerd 
+ trivia!\n- 07:00 pm : NEW - more gaming\n- 10:30 pm : clean up\n\nWHERE:\n-
+  bric studios\n- 647 Fulton Street (also known as 57 Rockwell Place)\n- 2nd
+  Floor\n- brooklyn\, ny 11217\n\nWANT TO RUN A BOARDGAME?\n- http://www.ner
+ dnyc.com/phpBB3/viewtopic.php?t=43227\n\nWANT TO RUN A ROLEPLAYING GAME?\n-
+  http://www.nerdnyc.com/phpBB3/viewtopic.php?t=43228\n\nINTERESTED?\n- Talk
+  to us at: http://www.nerdnyc.com/phpBB3/viewtopic.php?t=43229\n\nSTILL NOT
+  SURE?\n- Watch a video of our first ThanksNerding: http://www.youtube.com/
+ watch?v=aN35R2LTVDM\n\nGAME ON!
+LAST-MODIFIED:20091130T065922Z
+LOCATION:BRIC Studios\, 647 Fulton Street\, 2nd Floor\, Brooklyn\, NY
+SEQUENCE:2
+STATUS:CONFIRMED
+SUMMARY:Thanksnerding: make Friends\, eat Food & play Games
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20091028T223000Z
+DTEND:20091029T003000Z
+DTSTAMP:20130413T155055Z
+UID:kdd580u1pgs1po45v4dnhii6k8@google.com
+CREATED:20091016T210809Z
+DESCRIPTION:NerdBurger is a social event for nerds to get together and rank
+  a NYC Burger Joint.\n\nThis time:  5 Napkin Burger
+LAST-MODIFIED:20091113T073635Z
+LOCATION:630 9th Avenue (@45th Street)\, New York\, NY
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:NerdBurger
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20091010T150000Z
+DTEND:20091011T050000Z
+DTSTAMP:20130413T155055Z
+UID:b7r6pg1qo7cavl4v05sib0spe8@google.com
+CREATED:20090808T183245Z
+DESCRIPTION:Regular meeting of NerdNYC Officers
+LAST-MODIFIED:20091029T101008Z
+LOCATION:
+SEQUENCE:2
+STATUS:CONFIRMED
+SUMMARY:Officer Meeting
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20090827T000000Z
+DTEND:20090827T030000Z
+DTSTAMP:20130413T155055Z
+UID:kqn3qt3kk9qbtg6gp742l77trc@google.com
+CREATED:20090825T181702Z
+DESCRIPTION:See for details:  http://nerdnyc.com/phpBB3/viewtopic.php?f=46&
+ t=42289
+LAST-MODIFIED:20090825T181702Z
+LOCATION:At the Royal Oak Lounge\, 594 Union Ave\, Brooklyn\, just off of t
+ he L/G Metropolitan stop.
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Nerd Triva + Zombies
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20090913T170000Z
+DTEND:20090913T220000Z
+DTSTAMP:20130413T155055Z
+UID:980uoijflurvnmhfhuohinp2is@google.com
+CREATED:20090824T195629Z
+DESCRIPTION:See http://www.nerdnyc.com/phpBB3/viewtopic.php?f=3&t=42450&sta
+ rt=0 for details
+LAST-MODIFIED:20090824T195629Z
+LOCATION:Water Taxi Beach\, Long Island City
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:NerdNYC Beach Party
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20090825T223000Z
+DTEND:20090826T010000Z
+DTSTAMP:20130413T155055Z
+UID:39kshfkq7rbd24u2nijaukthso@google.com
+CREATED:20090812T135912Z
+DESCRIPTION:t's that time again...time for mouthwatering deliciousness and 
+ ruthless judgments!\n\nPlease join us at The Stand (24 E 12th St) on Tuesda
+ y August 25 at 6:30 pm.\n(For infos on the Stand: http://nymag.com/listings
+ /restaurant/stand/ or http://www.standburger.com/)
+LAST-MODIFIED:20090812T135912Z
+LOCATION:The Stand (24 E 12th Street)
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:NerdBurger
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20090808T150000Z
+DTEND:20090808T180000Z
+DTSTAMP:20130413T155055Z
+UID:3svduc3lourjghloc12g69pu5k@google.com
+CREATED:20090727T174217Z
+DESCRIPTION:
+LAST-MODIFIED:20090731T182250Z
+LOCATION:
+SEQUENCE:2
+STATUS:CONFIRMED
+SUMMARY:Officer Meeting
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20090829
+DTEND;VALUE=DATE:20090830
+DTSTAMP:20130413T155055Z
+UID:7g0a94fnjma01m2vs987j48iuo@google.com
+CREATED:20090724T142423Z
+DESCRIPTION:http://www.renfair.com/NY/
+LAST-MODIFIED:20090724T142423Z
+LOCATION:http://www.renfair.com/NY/
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Nerd Ren Faire Trip
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20090626
+DTEND;VALUE=DATE:20090627
+DTSTAMP:20130413T155055Z
+UID:9dgkn62s8tk6fgcii5fjm59ecs@google.com
+CREATED:20090623T222843Z
+DESCRIPTION:http://www.nerdnyc.com/phpBB3/viewtopic.php?f=3&t=41574\n\nFrid
+ ay June 26th 8pm\n347 W. 36th St. NY NY 13th fl.\ntickets $15 available onl
+ y at door\nDoors open 7:30\n\nWe'll be doing staged readings of scripts by 
+ nerdnyc's own Flojin\, Saif\, Pillar\, and Shyaporn\nAlso\, our famous Bake
+  Sale will be in full effect!\n\nAll proceeds will go towards Figment Theat
+ re's upcoming fall production of original one-act plays about monsters writ
+ ten by nerdnyc's Eppy\, Kajabor & jzn.
+LAST-MODIFIED:20090623T222919Z
+LOCATION:http://www.nerdnyc.com/phpBB3/viewtopic.php?f=3&t=41574
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:SAVE THE MONSTERS
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20090926
+DTEND;VALUE=DATE:20090927
+DTSTAMP:20130413T155055Z
+UID:b06bfijlhrol9gmg4oqonjo7jk@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=NerdNY
+ C Calendar;X-NUM-GUESTS=0:mailto:algqb78sbithpodn64kn0udcpc@group.calendar.
+ google.com
+CREATED:20090614T164928Z
+DESCRIPTION:http://www.nerdnyc.com/phpBB3/viewforum.php?f=25
+LAST-MODIFIED:20090614T165000Z
+LOCATION:BRIC Studies\, Brooklyn
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Recess
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20090731
+DTEND;VALUE=DATE:20090803
+DTSTAMP:20130413T155055Z
+UID:auenbb48damm3kd19ob37hsnc4@google.com
+CREATED:20090611T170906Z
+DESCRIPTION:See http://www.connecticon.org/ for details.
+LAST-MODIFIED:20090611T170907Z
+LOCATION:Connecticut Convention Center\, Hartford\, CT
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:ConnectiCon
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20090617T223000Z
+DTEND:20090618T013000Z
+DTSTAMP:20130413T155055Z
+UID:umgi8l6au7eqngkre7f7eg9jr0@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=NerdNY
+ C Calendar;X-NUM-GUESTS=0:mailto:algqb78sbithpodn64kn0udcpc@group.calendar.
+ google.com
+CREATED:20090524T155656Z
+DESCRIPTION:Burger meetup\, in tandem with Magic: The Nerdening
+LAST-MODIFIED:20090524T155705Z
+LOCATION:Shake Shack @ Madison Square Park (23rd Street\, off Broadway)
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:NerdBurger Meetup
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20090617T223000Z
+DTEND:20090618T023000Z
+DTSTAMP:20130413T155055Z
+UID:istlruchj0s20j69vdd71lcu64@google.com
+CREATED:20090522T170639Z
+DESCRIPTION:Precise location to follow.
+LAST-MODIFIED:20090522T170639Z
+LOCATION:Madison Square Park (23rd & Broadway)\, near Shake Shack
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Magic:The Nerding
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20090606
+DTEND;VALUE=DATE:20090608
+DTSTAMP:20130413T155055Z
+UID:iosmouu96ribds1c246nijq1pk@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=NerdNY
+ C Calendar;X-NUM-GUESTS=0:mailto:algqb78sbithpodn64kn0udcpc@group.calendar.
+ google.com
+CREATED:20090511T135644Z
+DESCRIPTION:The Museum of Comic and Cartoon Art is proud to announce MoCCA 
+ Festival 2009 will be held June 6th & 7th at the 69th Regiment Armory at Le
+ xington Avenue and 25th Street in New York City.\n\nhttp://www.moccany.org/
+ artfest09-main.html
+LAST-MODIFIED:20090511T135718Z
+LOCATION:NYC
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:MoCCA Festival 2009
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20091114T000000Z
+DTEND:20091114T040000Z
+DTSTAMP:20130413T155055Z
+UID:atvb9so6h3gdc2s7e2e9dtaq6k@google.com
+CREATED:20090507T132253Z
+DESCRIPTION:See our forum at http://nerdnyc.com/phpBB3/viewforum.php?f=20
+LAST-MODIFIED:20090507T132316Z
+LOCATION:440 Studios http://www.440studios.com/
+SEQUENCE:2
+STATUS:CONFIRMED
+SUMMARY:GGG 10
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20091030T230000Z
+DTEND:20091031T030000Z
+DTSTAMP:20130413T155055Z
+UID:gnfs8df14vkbp0c8cs8qm8rv7o@google.com
+CREATED:20090507T132209Z
+DESCRIPTION:See our forum at http://nerdnyc.com/phpBB3/viewforum.php?f=20
+LAST-MODIFIED:20090507T132209Z
+LOCATION:440 Studios: http://www.440studios.com/
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:GGG 10
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20091016T230000Z
+DTEND:20091017T030000Z
+DTSTAMP:20130413T155055Z
+UID:psj1dg8u6v4f3tikpnd1tkt7to@google.com
+CREATED:20090507T132122Z
+DESCRIPTION:See our forum at http://nerdnyc.com/phpBB3/viewforum.php?f=20
+LAST-MODIFIED:20090507T132122Z
+LOCATION:440 Studios: http://www.440studios.com/
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:GGG 10
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20091002T230000Z
+DTEND:20091003T030000Z
+DTSTAMP:20130413T155055Z
+UID:0j24koofms6gnv61hda6sehsn0@google.com
+CREATED:20090507T132022Z
+DESCRIPTION:See our forum at http://nerdnyc.com/phpBB3/viewforum.php?f=20
+LAST-MODIFIED:20090507T132022Z
+LOCATION:440 Studios: http://www.440studios.com/
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:GGG 10
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20090918T230000Z
+DTEND:20090919T030000Z
+DTSTAMP:20130413T155055Z
+UID:ajr9ljdkhdci0l8kpsl65c0q54@google.com
+CREATED:20090507T131925Z
+DESCRIPTION:See our forum at http://nerdnyc.com/phpBB3/viewforum.php?f=20
+LAST-MODIFIED:20090507T131925Z
+LOCATION:440 Studios: http://www.440studios.com/
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:GGG 10
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20090904T230000Z
+DTEND:20090905T030000Z
+DTSTAMP:20130413T155055Z
+UID:7kkq4hpuouqd94gskl5vhoriko@google.com
+CREATED:20090507T131840Z
+DESCRIPTION:See our Forum at http://nerdnyc.com/phpBB3/viewforum.php?f=20
+LAST-MODIFIED:20090507T131840Z
+LOCATION:440 Studios: http://www.440studios.com/
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:GGG 10
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20091107T000000Z
+DTEND:20091107T040000Z
+DTSTAMP:20130413T155055Z
+UID:arpsdp450jkujqtjs76885l360@google.com
+CREATED:20090505T154053Z
+DESCRIPTION:See http://nerdnyc.com/phpBB3/viewtopic.php?f=32&t=38670
+LAST-MODIFIED:20090506T144813Z
+LOCATION:ThinkCoffee: 248 Mercer Street\, NYC
+SEQUENCE:2
+STATUS:CONFIRMED
+SUMMARY:NerdNYC Boardgame Night
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20091009T230000Z
+DTEND:20091010T030000Z
+DTSTAMP:20130413T155055Z
+UID:quelqbts4jh55cueicv66inggk@google.com
+CREATED:20090505T153952Z
+DESCRIPTION:See http://nerdnyc.com/phpBB3/viewtopic.php?f=32&t=38670
+LAST-MODIFIED:20090506T144757Z
+LOCATION:ThinkCoffee: 248 Mercer Street\, NYC
+SEQUENCE:2
+STATUS:CONFIRMED
+SUMMARY:NerdNYC Boardgame Night
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20090821T230000Z
+DTEND:20090822T030000Z
+DTSTAMP:20130413T155055Z
+UID:9bpqs9prasaorfedb3k8dek7h0@google.com
+CREATED:20090505T153755Z
+DESCRIPTION:See http://nerdnyc.com/phpBB3/viewtopic.php?f=32&t=38670
+LAST-MODIFIED:20090505T154255Z
+LOCATION:ThinkCoffee: 248 Mercer Street\, NYC
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:NerdNYC Boardgame Night
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20090911T230000Z
+DTEND:20090912T030000Z
+DTSTAMP:20130413T155055Z
+UID:p8mg3rg4pkn918mj7tt6lialhs@google.com
+CREATED:20090505T153858Z
+DESCRIPTION:See http://nerdnyc.com/phpBB3/viewtopic.php?f=32&t=38670
+LAST-MODIFIED:20090505T154247Z
+LOCATION:ThinkCoffee: 248 Mercer Street\, NYC
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:NerdNYC Boardgame Night
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20091212T000000Z
+DTEND:20091212T040000Z
+DTSTAMP:20130413T155055Z
+UID:grunqu0m8fptsklmkl9aenlr34@google.com
+CREATED:20090505T154154Z
+DESCRIPTION:See http://nerdnyc.com/phpBB3/viewtopic.php?f=32&t=38670
+LAST-MODIFIED:20090505T154154Z
+LOCATION:ThinkCoffee: 248 Mercer Street\, NYC
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:NerdNYC Boardgame Night
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20090717T230000Z
+DTEND:20090718T030000Z
+DTSTAMP:20130413T155055Z
+UID:0cchhpruvtlns1s96noukm4ks0@google.com
+CREATED:20090505T153617Z
+DESCRIPTION:See http://nerdnyc.com/phpBB3/viewtopic.php?f=32&t=38670
+LAST-MODIFIED:20090505T153652Z
+LOCATION:ThinkCoffee: 248 Mercer Street\, NYC
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:NerdNYC Boardgame Night
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20090529
+DTEND;VALUE=DATE:20090601
+DTSTAMP:20130413T155055Z
+UID:adn28ilhicb8fdkj1mfk4f07pk@google.com
+CREATED:20090504T143449Z
+DESCRIPTION:http://www.campnerdly.org/\n\nCamp Nerdly is a gathering of old
+  and new friends each year to play role-playing and board games and to expe
+ rience nature. It runs from Friday afternoon to Sunday morning\, and we pla
+ y games together\, cook meals in our mess hall\, and hang out in cabins. It
+  is cheap ($50) and a great time!\n\nCamp Nerdly is held May 29-31\, 2009 i
+ n the Prince William Forest Park in Triangle\, VA. It's about 35 miles sout
+ h of Washington\, DC\, and isn't a far drive for most of the East Coast. It
+ 's 4-5 hours from NYC\, and 4 hours from the Triangle area of North Carolin
+ a. \n
+LAST-MODIFIED:20090504T143449Z
+LOCATION:http://www.campnerdly.org/
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Camp Nerdly in VA
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20090803
+DTEND;VALUE=DATE:20090810
+DTSTAMP:20130413T155055Z
+UID:5qkoa09qki3vqa9sm81omdniog@google.com
+CREATED:20090428T181908Z
+DESCRIPTION:http://www.boardgamers.org/
+LAST-MODIFIED:20090428T181908Z
+LOCATION:Lancaster\, PA
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:World Boardgame Championships
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20091119
+DTEND;VALUE=DATE:20091123
+DTSTAMP:20130413T155055Z
+UID:ofj49kkrrsnku9n7tpeduvqad8@google.com
+CREATED:20090428T181541Z
+DESCRIPTION:http://www.boardgamegeek.com/bggcon
+LAST-MODIFIED:20090428T181541Z
+LOCATION:Dallas\, TX
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:BoardGameGeek Con
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20090813
+DTEND;VALUE=DATE:20090817
+DTSTAMP:20130413T155055Z
+UID:ccjipgfs1c5viqdq744gstdlv0@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=NerdNY
+ C Calendar;X-NUM-GUESTS=0:mailto:algqb78sbithpodn64kn0udcpc@group.calendar.
+ google.com
+CREATED:20081203T233356Z
+DESCRIPTION:http://www.gencon.com/2009/indy/default.aspx
+LAST-MODIFIED:20090428T134840Z
+LOCATION:Indianapolis\, IN
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:GenCon
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20090708
+DTEND;VALUE=DATE:20090713
+DTSTAMP:20130413T155055Z
+UID:nodsd6td70d7eo7dd940tnu8u4@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=NerdNY
+ C Calendar;X-NUM-GUESTS=0:mailto:algqb78sbithpodn64kn0udcpc@group.calendar.
+ google.com
+CREATED:20081203T233339Z
+DESCRIPTION:http://www.dexposure.com/dexcon12.html
+LAST-MODIFIED:20090428T134551Z
+LOCATION:Morristown\, NJ
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:DexCon
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20090624
+DTEND;VALUE=DATE:20090629
+DTSTAMP:20130413T155055Z
+UID:ogama3jdrb0g7rreibo3n8jlvs@google.com
+CREATED:20090428T134018Z
+DESCRIPTION:http://www.originsgamefair.com/
+LAST-MODIFIED:20090428T134018Z
+LOCATION:Columbus\,OH
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Origins
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20090606
+DTEND;VALUE=DATE:20090607
+DTSTAMP:20130413T155055Z
+UID:1e0me8qdkrlf6guj4iato5vd0c@google.com
+CREATED:20090428T133913Z
+DESCRIPTION:http://www.jiffycon.com/
+LAST-MODIFIED:20090428T133913Z
+LOCATION:Greenfield\, MA
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:JiffyCon
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20090904
+DTEND;VALUE=DATE:20090907
+DTSTAMP:20130413T155055Z
+UID:vcjioan4an6394ncgqvnlajj88@google.com
+CREATED:20090428T133824Z
+DESCRIPTION:http://www.pennyarcadeexpo.com/
+LAST-MODIFIED:20090428T133824Z
+LOCATION:Seattle\, WA
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:PAX
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20090904
+DTEND;VALUE=DATE:20090908
+DTSTAMP:20130413T155055Z
+UID:p4q40hknabdna0un1mhlk5urt0@google.com
+CREATED:20090428T133714Z
+DESCRIPTION:http://www.dragoncon.org/
+LAST-MODIFIED:20090428T133715Z
+LOCATION:Atlanta\,GA
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Dragoncon
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20090613T150000Z
+DTEND:20090614T020000Z
+DTSTAMP:20130413T155055Z
+UID:91hs45bi5bnfbf9uf49p9fol78@google.com
+CREATED:20090410T163603Z
+DESCRIPTION:http://www.nerdnyc.com/phpBB3/viewtopic.php?f=25&t=40574
+LAST-MODIFIED:20090427T191506Z
+LOCATION:Bric Studio\, Brooklyn NY
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Recess
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20090712T150000Z
+DTEND:20090713T010000Z
+DTSTAMP:20130413T155055Z
+UID:s17boqf09m7r8ttc75n2q46cuc@google.com
+CREATED:20090427T191311Z
+DESCRIPTION:A day of Warhammer 40K fun. See http://nerdnyc.com/phpBB3/viewt
+ opic.php?f=47&t=40580 for details.
+LAST-MODIFIED:20090427T191311Z
+LOCATION:BRIC Studios
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:NerdNYC Apocalypse (WH40K)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20090426T160000Z
+DTEND:20090426T230000Z
+DTSTAMP:20130413T155055Z
+UID:8p7sfchf5r241ifv4bl9afougk@google.com
+CREATED:20090410T154051Z
+DESCRIPTION:http://nerdnyc.com/phpBB3/viewtopic.php?t=40464
+LAST-MODIFIED:20090410T154051Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Fight club
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20090131T170000Z
+DTEND:20090201T040000Z
+DTSTAMP:20130413T155055Z
+UID:ajlhh0mjerv7skka8vh3lbv8pk@google.com
+CREATED:20081125T001846Z
+DESCRIPTION:
+LAST-MODIFIED:20090128T174635Z
+LOCATION:Bric studio\, 57 Rockwell Place\, Brooklyn\, NY 11217
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Recess
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20090117T000000Z
+DTEND:20090117T040000Z
+DTSTAMP:20130413T155055Z
+UID:bsf6svmhju3di91pq7g7bco1po@google.com
+CREATED:20081204T144225Z
+DESCRIPTION:http://www.nerdnyc.com/forum/viewtopic.php?t=38684
+LAST-MODIFIED:20081205T033514Z
+LOCATION:248 Mercer Street\, NYC
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Boardgame night
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20090612T230000Z
+DTEND:20090613T030000Z
+DTSTAMP:20130413T155055Z
+UID:86k95frlo1oed8t3s2ntr834io@google.com
+CREATED:20081204T144406Z
+DESCRIPTION:http://www.nerdnyc.com/forum/viewtopic.php?t=38670
+LAST-MODIFIED:20081204T144406Z
+LOCATION:248 Mercer Street\, NYC
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Boardgame night
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20090515T230000Z
+DTEND:20090516T030000Z
+DTSTAMP:20130413T155055Z
+UID:ohi3kijvn01lhilianmdso0f3c@google.com
+CREATED:20081204T144354Z
+DESCRIPTION:http://www.nerdnyc.com/forum/viewtopic.php?t=38670
+LAST-MODIFIED:20081204T144355Z
+LOCATION:248 Mercer Street\, NYC
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Boardgame night
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20090417T230000Z
+DTEND:20090418T030000Z
+DTSTAMP:20130413T155055Z
+UID:7niorr267dodolsdp1bjooi224@google.com
+CREATED:20081204T144340Z
+DESCRIPTION:http://www.nerdnyc.com/forum/viewtopic.php?t=38670
+LAST-MODIFIED:20081204T144340Z
+LOCATION:248 Mercer Street\, NYC
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Boardgame night
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20090320T230000Z
+DTEND:20090321T030000Z
+DTSTAMP:20130413T155055Z
+UID:09dc59gv1gpef02qv0ukiq8v6k@google.com
+CREATED:20081204T144317Z
+DESCRIPTION:http://www.nerdnyc.com/forum/viewtopic.php?t=38670
+LAST-MODIFIED:20081204T144317Z
+LOCATION:248 Mercer Street\, NYC
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Boardgame night
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20090214T000000Z
+DTEND:20090214T040000Z
+DTSTAMP:20130413T155055Z
+UID:j33d83ak815bfql8qn2mb0bvp4@google.com
+CREATED:20081204T144301Z
+DESCRIPTION:http://www.nerdnyc.com/forum/viewtopic.php?t=38670
+LAST-MODIFIED:20081204T144301Z
+LOCATION:248 Mercer Street\, NYC
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Boardgame night
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20090403
+DTEND;VALUE=DATE:20090406
+DTSTAMP:20130413T155055Z
+UID:52p09eedc9ns7bdekh1h3ug778@google.com
+CREATED:20081124T203649Z
+DESCRIPTION:
+LAST-MODIFIED:20081124T203649Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:I-Con
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20090227T190000
+DTEND;TZID=America/New_York:20090227T230000
+RRULE:FREQ=WEEKLY;INTERVAL=2;BYDAY=FR;UNTIL=20090508T230000Z;WKST=SU
+DTSTAMP:20130413T155055Z
+UID:mmt680h46o0u4hcj4gf82toua8@google.com
+CREATED:20081124T184042Z
+DESCRIPTION:http://www.nerdnyc.com/forum/viewtopic.php?t=38551
+LAST-MODIFIED:20081124T184043Z
+LOCATION:TBD
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:GGG
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20090219
+DTEND;VALUE=DATE:20090223
+DTSTAMP:20130413T155055Z
+UID:0h3htl48m51310qku0ph64nl1g@google.com
+CREATED:20081110T212340Z
+DESCRIPTION:http://www.nerdnyc.com/forum/viewtopic.php?p=521052
+LAST-MODIFIED:20081110T212419Z
+LOCATION:3 Speedwell Ave\, Morristown\, NJ 07960
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Dreamation 2009
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20081116T170000Z
+DTEND:20081117T040000Z
+DTSTAMP:20130413T155055Z
+UID:la753rosp1t20o4f86sa4m4iuo@google.com
+CREATED:20081110T181424Z
+DESCRIPTION:http://www.nerdnyc.com/forum/viewtopic.php?t=38074
+LAST-MODIFIED:20081110T181424Z
+LOCATION:Bric studio\, 57 Rockwell Place\, Brooklyn\, NY 11217
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Thanksnerding
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20081203T000000Z
+DTEND:20081203T040000Z
+DTSTAMP:20130413T155055Z
+UID:7jlr6m3lhv1ph91lqepkltjafs@google.com
+CREATED:20081110T181147Z
+DESCRIPTION:http://www.nerdnyc.com/forum/viewtopic.php?t=38315
+LAST-MODIFIED:20081110T181147Z
+LOCATION:248 Mercer Street\, NYC
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Boardgame night
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20081104T000000Z
+DTEND:20081104T040000Z
+DTSTAMP:20130413T155055Z
+UID:1lunejc72ha81g748i0h1e5ug8@google.com
+CREATED:20081008T013042Z
+DESCRIPTION:http://www.nerdnyc.com/forum/viewtopic.php?t=37764
+LAST-MODIFIED:20081008T013042Z
+LOCATION:248 Mercer Street\, NYC
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Boardgame night
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20081024
+DTEND;VALUE=DATE:20081027
+DTSTAMP:20130413T155055Z
+UID:frfk98i0624voohtmpp75duk9c@google.com
+CREATED:20081008T012846Z
+DESCRIPTION:http://www.nerdnyc.com/forum/viewtopic.php?t=37455
+LAST-MODIFIED:20081008T012846Z
+LOCATION:Piscataway\, NJ
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:UberCon
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20081018T160000Z
+DTEND:20081018T210000Z
+DTSTAMP:20130413T155055Z
+UID:930trtd99p3fmmu2mbnf2pqi0k@google.com
+CREATED:20081007T131541Z
+DESCRIPTION:http://www.nerdnyc.com/forum/viewtopic.php?t=37401
+LAST-MODIFIED:20081007T131637Z
+LOCATION:Prospect park (see post for detailed location)
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Fall Nerd.Nic
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20081019T000000Z
+DTEND:20081019T020000Z
+DTSTAMP:20130413T155055Z
+UID:tnaqgof3nrh12jar0rn647uu60@google.com
+CREATED:20081007T131351Z
+DESCRIPTION:http://www.nerdnyc.com/forum/viewtopic.php?t=37574
+LAST-MODIFIED:20081007T131351Z
+LOCATION:259 W 30th street\, nyc
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Robot Uprising
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20081018T000000Z
+DTEND:20081018T020000Z
+DTSTAMP:20130413T155055Z
+UID:aghj1ig728ouvn31h85nct5gs0@google.com
+CREATED:20081007T131339Z
+DESCRIPTION:http://www.nerdnyc.com/forum/viewtopic.php?t=37574
+LAST-MODIFIED:20081007T131339Z
+LOCATION:259 W 30th street\, nyc
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Robot Uprising
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20081011T000000Z
+DTEND:20081011T020000Z
+DTSTAMP:20130413T155055Z
+UID:5p38igqpec9n9ke7kfif0m6cdg@google.com
+CREATED:20081007T131233Z
+DESCRIPTION:http://www.nerdnyc.com/forum/viewtopic.php?t=37574
+LAST-MODIFIED:20081007T131233Z
+LOCATION:259 W 30th street\, nyc
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Robot Uprising
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20081012T000000Z
+DTEND:20081012T020000Z
+DTSTAMP:20130413T155055Z
+UID:8u4n79nufgqgtlbqrqni8lic9o@google.com
+CREATED:20081007T131031Z
+DESCRIPTION:http://www.nerdnyc.com/forum/viewtopic.php?t=37574
+LAST-MODIFIED:20081007T131031Z
+LOCATION:259 W 30th street\, nyc
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Robot Uprising
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20081010T230000Z
+DTEND:20081011T030000Z
+DTSTAMP:20130413T155055Z
+UID:htidsekq6msdbnuam9fbh82gh4@google.com
+CREATED:20081007T130606Z
+DESCRIPTION:http://www.nerdnyc.com/forum/viewtopic.php?t=37747
+LAST-MODIFIED:20081007T130606Z
+LOCATION:118 Rivington\, nyc
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:D&D&D 2: Drinks\, Damage and Design
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20080304T190000
+DTEND;TZID=America/New_York:20080304T230000
+RRULE:FREQ=MONTHLY;BYDAY=1TU;WKST=SU;UNTIL=20080903T030000Z
+DTSTAMP:20130413T155055Z
+UID:0fhqnpfu2g2ba0qtige230jjqs@google.com
+CREATED:20080226T034825Z
+DESCRIPTION:<a href=http://www.nerdnyc.com/forum/viewtopic.php?t=34370&high
+ light=&sid=8e6375240dd3928cdc4954e699ff496f>GGG Board Game night</a>
+LAST-MODIFIED:20081007T130415Z
+LOCATION:ThinkCoffee
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Board game night
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20080614T000000Z
+DTEND:20080614T030000Z
+DTSTAMP:20130413T155055Z
+UID:3u9rqq7jlgacb05mconcka7kjk@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=NerdNY
+ C Calendar;X-NUM-GUESTS=0:mailto:algqb78sbithpodn64kn0udcpc@group.calendar.
+ google.com
+CREATED:20080610T171536Z
+DESCRIPTION:<a href=http://www.nerdnyc.com/forum/viewtopic.php?t=36069>Nerd
+ nyc</a>
+LAST-MODIFIED:20080610T171700Z
+LOCATION:347 West 37th Street\, NYC
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Staged readings
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20080524
+DTEND;VALUE=DATE:20080525
+DTSTAMP:20130413T155055Z
+UID:jjn74r5ikkoqcmvuub6vk5bu54@google.com
+CREATED:20080512T150343Z
+DESCRIPTION:http://www.nerdnyc.com/forum/viewtopic.php?p=483886
+LAST-MODIFIED:20080512T150343Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Paintball
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20080531T160000Z
+DTEND:20080531T210000Z
+DTSTAMP:20130413T155055Z
+UID:l3l1getajre60o72b8f4u1liko@google.com
+CREATED:20080512T150122Z
+DESCRIPTION:http://www.nerdnyc.com/forum/viewtopic.php?t=35575\nhttp://www.
+ nerdnyc.com/forum/viewtopic.php?t=35269
+LAST-MODIFIED:20080512T150122Z
+LOCATION:Prospect park
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Nerdnic
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20080404
+DTEND;VALUE=DATE:20080407
+DTSTAMP:20130413T155055Z
+UID:umpbeb7gqnf4cscj1peij79glg@google.com
+CREATED:20080204T162201Z
+DESCRIPTION:<a href=http://www.nerdnyc.com/forum/viewtopic.php?t=34659>I-CO
+ N 27 April 4-6th: Staffing needed</a>
+LAST-MODIFIED:20080322T050133Z
+LOCATION:http://www.iconsf.org/
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:I-CON 27
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20080523T230000Z
+DTEND:20080524T030000Z
+DTSTAMP:20130413T155055Z
+UID:uhvhkg0r6aa7mvh3742itl9i1s@google.com
+CREATED:20080118T205953Z
+DESCRIPTION:<a href=http://nerdnyc.com/forum/viewtopic.php?t=33381>GGG 8</a
+ >
+LAST-MODIFIED:20080118T210149Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:GGG 8
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20080509T230000Z
+DTEND:20080510T030000Z
+DTSTAMP:20130413T155055Z
+UID:hebjha6vrehfe0s7sl5a5k9if8@google.com
+CREATED:20080118T205929Z
+DESCRIPTION:<a href=http://nerdnyc.com/forum/viewtopic.php?t=33381>GGG 8</a
+ >
+LAST-MODIFIED:20080118T210137Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:GGG 8
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20080425T230000Z
+DTEND:20080426T030000Z
+DTSTAMP:20130413T155055Z
+UID:ba4n7ejgucf95oolsnu3ap2v8k@google.com
+CREATED:20080118T205917Z
+DESCRIPTION:<a href=http://nerdnyc.com/forum/viewtopic.php?t=33381>GGG 8</a
+ >
+LAST-MODIFIED:20080118T210126Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:GGG 8
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20080328T230000Z
+DTEND:20080329T030000Z
+DTSTAMP:20130413T155055Z
+UID:k0j1sijfkd8t3ejo0dio5nv5q4@google.com
+CREATED:20080118T205843Z
+DESCRIPTION:<a href=http://nerdnyc.com/forum/viewtopic.php?t=33381>GGG 8</a
+ >
+LAST-MODIFIED:20080118T210045Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:GGG 8
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20080314T230000Z
+DTEND:20080315T030000Z
+DTSTAMP:20130413T155055Z
+UID:odgbbja3v1v1tubectmjaevqa0@google.com
+CREATED:20080118T205819Z
+DESCRIPTION:<a href=http://nerdnyc.com/forum/viewtopic.php?t=33381>GGG 8</a
+ >
+LAST-MODIFIED:20080118T210032Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:GGG 8
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20080411T230000Z
+DTEND:20080412T030000Z
+DTSTAMP:20130413T155055Z
+UID:8njui7qhjpfgkjf3bbvql3ldeg@google.com
+CREATED:20080118T205859Z
+DESCRIPTION:GGG 8
+LAST-MODIFIED:20080118T205859Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:GGG 8
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20080209T000000Z
+DTEND:20080209T040000Z
+DTSTAMP:20130413T155055Z
+UID:arblfdsmbor727244d0qmisn9s@google.com
+CREATED:20080118T205631Z
+DESCRIPTION:<a href=http://www.nerdnyc.com/forum/viewtopic.php?t=33419>GGG:
+  Board Game Night</a>
+LAST-MODIFIED:20080118T205631Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:GGG: Board Game Night
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20080202
+DTEND;VALUE=DATE:20080203
+DTSTAMP:20130413T155055Z
+UID:50igbkjoqt2j1o5aglgq3nj96g@google.com
+CREATED:20080118T205509Z
+DESCRIPTION:<a href=http://www.nerdnyc.com/forum/viewforum.php?f=43>GGG: Fi
+ ght club<a>
+LAST-MODIFIED:20080118T205510Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:GGG: Fight club
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20080124
+DTEND;VALUE=DATE:20080128
+DTSTAMP:20130413T155055Z
+UID:b0o8ck5gvsec4qn8vgt83kuppo@google.com
+CREATED:20080118T205032Z
+DESCRIPTION:<a href=http://www.nerdnyc.com/forum/viewtopic.php?t=31963>Drea
+ mation 2008 Indie Games Explosion</a>
+LAST-MODIFIED:20080118T205248Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Dreamation 2008
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20071125
+DTEND;VALUE=DATE:20071126
+DTSTAMP:20130413T155055Z
+UID:8to1mknoecfu9l60jhj5mdbu24@google.com
+CREATED:20070925T144250Z
+LAST-MODIFIED:20070925T144250Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Thanksnerding
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20071109
+DTEND;VALUE=DATE:20071110
+DTSTAMP:20130413T155055Z
+UID:f8e9oqo5alon36gh9fcd41sos4@google.com
+CREATED:20070904T173222Z
+LAST-MODIFIED:20070904T173222Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Gotham Gaming Guild - Session 5 - Fall '07
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20071026T230000Z
+DTEND:20071027T030000Z
+DTSTAMP:20130413T155055Z
+UID:qrot84b6p6vad5imbd4cbodg0s@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=NerdNY
+ C Calendar;X-NUM-GUESTS=0:mailto:algqb78sbithpodn64kn0udcpc@group.calendar.
+ google.com
+CREATED:20070904T173139Z
+DESCRIPTION:
+LAST-MODIFIED:20070904T173145Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Gotham Gaming Guild - Session 4 - Fall '07
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20071012T230000Z
+DTEND:20071013T030000Z
+DTSTAMP:20130413T155055Z
+UID:25thm0n2mpdlt2kvbn13jv7f3s@google.com
+CREATED:20070904T173058Z
+LAST-MODIFIED:20070904T173111Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Gotham Gaming Guild - Session 3 - Fall '07
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20070928T230000Z
+DTEND:20070929T030000Z
+DTSTAMP:20130413T155055Z
+UID:ntri861je3ud3d7gcv3cfd1qcc@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=NerdNY
+ C Calendar;X-NUM-GUESTS=0:mailto:algqb78sbithpodn64kn0udcpc@group.calendar.
+ google.com
+CREATED:20070904T172946Z
+LAST-MODIFIED:20070904T172958Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Gotham Gaming Guild - Session 2 - Fall '07
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20070914T230000Z
+DTEND:20070915T030000Z
+DTSTAMP:20130413T155055Z
+UID:csm26keqic3j2aotv08srnuv88@google.com
+CREATED:20070904T172928Z
+LAST-MODIFIED:20070904T172928Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Gotham Gaming Guild - Session 1 - Fall '07
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20070610T150000Z
+DTEND:20070611T020000Z
+DTSTAMP:20130413T155055Z
+UID:m14th1k6htj5fhjleh83v4dkos@google.com
+CREATED:20070315T191839Z
+LAST-MODIFIED:20070513T182218Z
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Recess X: The Unknown
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20070311
+DTEND;VALUE=DATE:20070312
+DTSTAMP:20130413T155055Z
+UID:863mpkqdat5g0esfvevlnhbvtg@google.com
+CREATED:20070207T193337Z
+DESCRIPTION:NerdNYC's all day gaming fest! More info at www.nerdnyc.com
+LAST-MODIFIED:20070207T193337Z
+LOCATION: Brooklyn Information & Culture\, 647 Fulton Street\, Brooklyn\, N
+ Y 11217
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Recess IX
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20070504
+DTEND;VALUE=DATE:20070507
+DTSTAMP:20130413T155055Z
+UID:u8emdv5mkip68hahsi292m1tao@google.com
+CREATED:20070201T185553Z
+DESCRIPTION:http://www.campnerdly.org/ 
+LAST-MODIFIED:20070201T185553Z
+LOCATION:Triangle\, VA
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Camp Nerdly 1
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20070323
+DTEND;VALUE=DATE:20070326
+DTSTAMP:20130413T155055Z
+UID:01gedqt35qsk5rir71p8erdets@google.com
+CREATED:20070201T185439Z
+DESCRIPTION:http://www.iconsf.org
+LAST-MODIFIED:20070201T185439Z
+LOCATION:Stony Brook\, Long Island\, New York
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:ICON
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20070217T000000Z
+DTEND:20070217T040000Z
+DTSTAMP:20130413T155055Z
+UID:odusr5b1512rcldho0b86i93bo@google.com
+CREATED:20070131T162857Z
+LAST-MODIFIED:20070131T170807Z
+LOCATION:440 Lafayette St\, New York\, NY 10003
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Gotham Gaming Guild
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20070427T230000Z
+DTEND:20070428T000000Z
+DTSTAMP:20130413T155055Z
+UID:h1vrqh065d0n89dh557guqt730@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=NerdNY
+ C Calendar;X-NUM-GUESTS=0:mailto:algqb78sbithpodn64kn0udcpc@group.calendar.
+ google.com
+CREATED:20070131T162959Z
+LAST-MODIFIED:20070131T170732Z
+LOCATION:440 Lafayette St\, New York\, NY 10003
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Gotham Gaming Guild
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20070413T230000Z
+DTEND:20070414T000000Z
+DTSTAMP:20130413T155055Z
+UID:n5t6lpmqe9ct1f72d767fc5l2g@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=NerdNY
+ C Calendar;X-NUM-GUESTS=0:mailto:algqb78sbithpodn64kn0udcpc@group.calendar.
+ google.com
+CREATED:20070131T162952Z
+LAST-MODIFIED:20070131T170706Z
+LOCATION:440 Lafayette St\, New York\, NY 10003
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Gotham Gaming Guild
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20070330T230000Z
+DTEND:20070331T000000Z
+DTSTAMP:20130413T155055Z
+UID:89i4731cmlppe2hqdvqhr0cnao@google.com
+CREATED:20070131T163058Z
+LAST-MODIFIED:20070131T170642Z
+LOCATION:440 Lafayette St\, New York\, NY 10003
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Gotham Gaming Guild
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20070316T230000Z
+DTEND:20070317T000000Z
+DTSTAMP:20130413T155055Z
+UID:9f4k02nusor9cb7e61inunucug@google.com
+CREATED:20070131T162927Z
+LAST-MODIFIED:20070131T170623Z
+LOCATION:440 Lafayette St\, New York\, NY 10003
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Gotham Gaming Guild
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20070303T000000Z
+DTEND:20070303T010000Z
+DTSTAMP:20130413T155055Z
+UID:b7ce8hfedvoavdvurnv6tg8al0@google.com
+CREATED:20070131T162909Z
+LAST-MODIFIED:20070131T170600Z
+LOCATION:440 Lafayette St\, New York\, NY 10003
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Gotham Gaming Guild
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
