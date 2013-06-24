@@ -4,7 +4,7 @@
 		"start_date":   "20130529T230000Z",
 		"end_date":   "20130530T010000Z",
 		"description":   "It's already that time again! Every last Wednesday of the month is TRUE NERD TRIVIA!; ; Where: Vlada Lounge, inside 2nd Floor; When: Wednesday, May 29th; Start time: 7:00 pm; Cost: No cover charge, but $1 donations appreciated!; ; Last month we had a GOT lightning round tie for the pie! Who will be our next champions?; ; Team size is limited to 6 players - so choose your companions wisely! If you need a team - show up and we'll find you some new friends!; ; ***; ; For all you newbies who have yet to experience our brand of Trivia, leave your knowledge of state capitals at home! Forget everything you learned in high school - we won't be asking you any of that stuff! Instead, our questions are all about the important things in life, such as:; ; Geography: What is the name of the region of Middle Earth where Hobbits live?; Science and Tech: What device will allow a Delorean to travel back in time?; Parazoology: How long would it take for you to be digested in the belly of the Sarlaac?; Superheroes: When Dick Grayson gets his driver's license - what car can he take for a spin?; ; And much much more!!!",
-		"address":   "Vlada Lounge 331 west 51, New York, New York 10019   (Second Floor)",
+		"address":   "Vlada Lounge, 2nd Floor: 331 west 51, New York, New York 10019",
 		"lat":   "",
 		"lng":   ""
 	},
@@ -31,6 +31,7 @@
 		"start_date":   "20130222T000000Z",
 		"end_date":   "20130222T030000Z",
 		"description":   "The next TRUE NERD TRIVIA is upon us! And how appropriate February is also National Pie Month!; ; Join us for a night of nerdy trivia and fun prizes!; ; ; Where: The back room of Bar 82: 136 2nd Avenue, NYC; When: Thursday, February 21st; Start time: 7:00pm; Cost: $5; ; The Island of Misfit Toys took home the pie last month...who will be this month's winner?; ...; Team size is limited to 6 players - so choose your companions wisely! If you need a team - show up and we'll find you some new friends!; ; ***; ; For all you newbies who have yet to experience our brand of Trivia, leave your knowledge of state capitals at home! Forget everything you learned in high school - we won't be asking you any of that stuff! Instead, our questions are all about the important things in life, such as:; ; Geography: What is the name of the region of Middle Earth where Hobbits live?; Science and Tech: What device will allow a Delorean to travel back in time?; Parazoology: How long would it take for you to be digested in the belly of the Sarlaac?; Superheroes: When Dick Grayson gets his driver's license - what car can he take for a spin?; ; And much much more!!!",
+		"hashtags":	[{"item":"#trivia"},{"item":"#immature"}],
 		"address":   "The back room of Bar 82: 136 2nd Avenue, NYC",
 		"lat":   "40.7291262",
 		"lng":   "-73.98727319999999"
@@ -53,4 +54,14 @@
 		"lat":   "40.7293858",
 		"lng":   "-73.9920477"
 	},
-{}]
+	{
+		"event_name":	"King's Landing LIVE ACTION",
+		"start_date":	"January 1, 2013",
+		"end_date":	"June 2, 2015",
+		"description":	"Live action roleplay as a Fleabottom whore! Adults Only",
+		"hashtags":	[{"item":"#boffer"},{"item":"#mature"},{"item": "#gameofthrones"}],
+		"address":	"Elizabeth, NJ",
+		"lat":	"",
+		"lng":	""
+	}
+]

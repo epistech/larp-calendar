@@ -2,30 +2,98 @@
 <html lang="en">
 <head>
 	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, minimumscale=1.0, maximum-scale=1.0" />
 	<title>LarpCal Interface 	</title>
-	<script>
-	</script>
 	<script src="jquery-1.9.1.min.js" type="text/javascript"></script>
 	<script src="jsrender.js" type="text/javascript" ></script>
 	<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBn_ZO__dCD3xWXW7S-B8FrwfWqn8635a4&sensor=false"></script>
+	
+	<style>
+		@media screen
+		body {
+			margin: 0 ! important;
+			padding: 0 ! important;
+			font-size: 1em;
+		}
+		#map-canvas {
+			background-color: #123451;
+			width: 100%;
+			height: 300px;
+			position: fixed ! important;
+			top: 0px;
+			left: 0px;
+			margin-bottom: 5px ! important;
+		}
+		
+		#title {
+			margin-top: 300px;
+		}
+		
+		#desktopView {
+			padding: 8px;
+			width: 75%;
+		}
+		
+		.hashtags {
+			background-color: grey;
+			color: white;
+			padding: 3px;
+			border-radius: 10px;
+		}
+		
+		#toolbar {
+			position: fixed;
+			top: 308px;
+			right: 8px;
+			bottom: 0px;
+			float: right;
+			width: 20%;
+			border: 1px solid #333333;
+			padding: 5px;
+			background-color: rgba(87,145,188,1);
+			
+		}
+		
+	</style>
 </head>
 <body onload="initialize()">
 
 
-<div id="map-canvas" style="background-color: #123451; width: 100%; height: 300px;">
+<div id="map-canvas">
 &
 </div>
 
-	<a href="javascript:codeStaticAddress()">Static Address</a>
-
-<div id="desktopView">
+<div id="title">
+	<h1>Global Larp Calendar</h1>
+	<p> Scroll down to see all the events, or use the tools to the right to apply filters.</p>
 </div>
 
+<div id="desktopView">
+
+</div>
+<div id="toolbar">
+# PLACEHOLDER FOR USEFUL TOOLS #
+</div>
 	<script id="calendarDesktopTemplate" type="text/x-jsrender">
 		
-		<p>{{:#index+1}}: <b>{{>event_name}}</b> (<a href="javascript:codeAddress({{>lat}},{{>lng}});">Locate on map</a>)<br />
+		<p>{{:#index+1}}: <b>{{>event_name}}</b> (
+		{{if lat}}
+			<a href="javascript:codeAddress({{>lat}},{{>lng}});">Locate on map</a>)<br />
+		{{else address}}
+			<a href="javascript:codeStaticAddress('{{>address}}');">Locate on map</a>)<br />
+		{{else}}
+			[No Address Data Available])<br />
+		{{/if}}
 		{{>start_date}}<br />
-		{{>description}}
+		{{>description}}<br />
+
+		{{if hashtags}}
+			<p>
+		{{for hashtags}}
+			<span class="hashtags">{{:item}}</span>
+		{{/for}}
+			</p>
+		{{/if}}
 		</p>
 	</script>
 	<script id="codeAddysTemplate" type="text/x-jsrender">
@@ -35,22 +103,14 @@
 
 
 <script>
-/*
+/*	CALENDAR JSON SAMPLE
 	var calendar = [ 
-		{
-			"event_name": "True Nerd Trivia",
-			"start_date": "20130424T230000Z",
-			"end_date": "20130425T020000Z",
-			"description": "True Nerd Trivia has moved venues yet again. Come join us at our new digs for April's Trivia event!\n\nWe are still working out the time for that evening, so stay tuned!\n\nJoin us for a night of nerdy trivia and fun prizes!\n\n\nWhere: Vlada Lounge, 2nd Floor: 331 West 51st Street, NYC\nWhen: Wednesday April 24th\nStart time: TBD\nCost: $1 Donations appreciated\n\nFoghat took home the pie last month...who will be this month's winner?\n...\nTeam size is limited to 6 players - so choose your companions wisely! If you need a team - show up and we'll find you some new friends!\n\n***\n\nFor all you newbies who have yet to experience our brand of Trivia, leave your knowledge of state capitals at home! Forget everything you learned in high school - we won't be asking you any of that stuff! Instead, our questions are all about the important things in life, such as:\n\nGeography: What is the name of the region of Middle Earth where Hobbits live?\nScience and Tech: What device will allow a Delorean to travel back in time?\nParazoology: How long would it take for you to be digested in the belly of the Sarlaac?\nSuperheroes: When Dick Grayson gets his driver's license - what car can he take for a spin?\n\nAnd much much more!!!",
-			"address": "Vlada Lounge, 2nd Floor: 331 West 51st Street, NYC",
-			"lat":	40.763665,
-			"lng": -73.98683900000002
-		},
 		{
 			"event_name": "RECESS Pre-Party!",
 			"start_date": "20130119T000000Z",
 			"end_date": "20130119T040000Z",
 			"description": "Come out and socialize with us before Recess!",
+			"hashtags": "#vampire #boffer",
 			"address": "The back room of Bar 82: 136 2nd Avenue, NYC",
 			"lat": 40.72912620, 
 			"lng": -73.98727319999999
@@ -66,6 +126,7 @@
 
       function initialize() {
         geocoder = new google.maps.Geocoder();
+        // IN THE FUTURE, PULL USER'S LOCATION DYNAMICALLY.
         var latlng = new google.maps.LatLng(40.75, -73.98);
         var mapOptions = {
         	zoom: 10,
@@ -76,9 +137,9 @@
       }
 
 
-	function codeStaticAddress() {
+	function codeStaticAddress(address) {
 		clearMarkers();
-		geocoder.geocode( { 'address': '214 East 21st Street, New York, NY'}, function(results, status) {
+		geocoder.geocode( { 'address': address}, function(results, status) {
         if (status == google.maps.GeocoderStatus.OK) {
         	// alert(results[0].geometry.location);
             map.setCenter(results[0].geometry.location);
@@ -95,7 +156,6 @@
 
 	function codeAddress(latitude,longitude) {
 		clearMarkers();
-		
 		var location = new google.maps.LatLng(latitude, longitude);		
 		var marker = new google.maps.Marker({
 			map: map,
@@ -113,9 +173,9 @@
 		markerArray.length = 0;
 		}
 	}
+
 	calendar = $.getJSON('larpcal.json', function(calendar){
-		$("#desktopView").html($("#calendarDesktopTemplate").render(calendar));
-	
+		$("#desktopView").html($("#calendarDesktopTemplate").render(calendar));	
 	});
 	
 </script>
