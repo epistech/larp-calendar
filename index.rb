@@ -1,4 +1,4 @@
-#!/Users/timrodriguez/.rvm/rubies/ruby-1.9.3-p385/bin/ruby
+#!/Users/timr/.rvm/rubies/ruby-1.9.3-p385/bin/ruby
 #home
 ###/Users/timrodriguez/.rvm/rubies/ruby-1.9.3-p385/bin/ruby
 ###
