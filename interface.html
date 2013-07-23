@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 	<meta charset="utf-8" />
-	<meta name="viewport" content="width=device-width, minimumscale=1.0, maximum-scale=1.0" />
+	<!-- <meta name="viewport" content="width=device-width, minimumscale=1.0, maximum-scale=1.0" /> -->
 	<title>LarpCal Interface 	</title>
 	<script src="jquery-1.9.1.min.js" type="text/javascript"></script>
 	<script src="jsrender.js" type="text/javascript" ></script>
@@ -15,37 +15,29 @@
 			padding: 0 ! important;
 			font-size: 1em;
 		}
-		#map-canvas {
-			background-color: #123451;
-			width: 100%;
-			height: 300px;
-			position: fixed ! important;
+
+		#title {
+			position: fixed;
 			top: 0px;
 			left: 0px;
-			margin-bottom: 5px ! important;
-			border-bottom: 5px
+			width: 20%;
+			height: 90px;
+			padding: 5px;
+			border: 1px solid #333333;
+			background-color: fuchsia;
 		}
 		
-		#title {
-			margin-top: 300px;
+		#title h1 {
+			font-size: 12pt;
+			font-family: Helvetica;
+			font-weight: bold;
+			overflow: hidden;
 		}
-		
-		#desktopView {
-			padding: 8px;
-			width: 75%;
-		}
-		
-		.hashtags {
-			background-color: grey;
-			color: white;
-			padding: 3px;
-			border-radius: 10px;
-		}
-		
+
 		#toolbar {
 			position: fixed;
-			top: 308px;
-			right: 8px;
+			top: 100px;
+			left: 0px;
 			bottom: 0px;
 			float: right;
 			width: 20%;
@@ -55,51 +47,133 @@
 			
 		}
 		
+		#map-canvas {
+			position: fixed ! important;
+			top: 0px;
+			left: 21%;
+			background-color: #123451;
+			width: 50%;
+			height: 100%;
+			margin-bottom: 5px ! important;
+			border-bottom: 5px
+		}
+		
+		
+		#desktopView {
+			position: absolute;
+			top: 0;
+			right: 0;
+			padding: 8px;
+			width: 25%;
+			font: 8pt Verdana;
+		}
+		
+		#popover {
+			border: 1px solid black;
+			background-color: green;
+			z-index: 100 !important;
+ 			position: absolute;
+			top: 100px;
+			left: 100px;
+			visibility: hidden;
+		}
+		
+		
+		.hashtags {
+			background-color: grey;
+			color: white;
+			padding: 3px;
+			border-radius: 10px;
+		}
+		
+
+
+		
 	</style>
 </head>
 <body onload="initialize()">
+<div id="popover"></div>
+
+
+<div id="toolbar">
+	<div id="title">
+		<h1>Global Larp Calendar</h1>
+		<p> Scroll down to see all the events, or use the tools to the right to apply filters.</p>
+	</div>
+
+	# PLACEHOLDER FOR USEFUL TOOLS #
+</div>
 
 
 <div id="map-canvas">
 &
 </div>
 
-<div id="title">
-	<h1>Global Larp Calendar</h1>
-	<p> Scroll down to see all the events, or use the tools to the right to apply filters.</p>
-</div>
-
 <div id="desktopView">
 
 </div>
-<div id="toolbar">
-# PLACEHOLDER FOR USEFUL TOOLS #
-</div>
-	<script id="calendarDesktopTemplate" type="text/x-jsrender">
-		
-		<p>{{:#index+1}}: <b>{{>event_name}}</b> (
-		{{if lat}}
-			<a href="javascript:codeAddress({{>lat}},{{>lng}});">Locate on map</a>)<br />
-		{{else address}}
-			<a href="javascript:codeStaticAddress('{{>address}}');">Locate on map</a>)<br />
-		{{else}}
-			[No Address Data Available])<br />
-		{{/if}}
-		{{>start_date}}<br />
-		{{>description}}<br />
 
-		{{if hashtags}}
-			<p>
-		{{for hashtags}}
-			<span class="hashtags">{{:item}}</span>
-		{{/for}}
-			</p>
-		{{/if}}
-		</p>
-	</script>
-	<script id="codeAddysTemplate" type="text/x-jsrender">
+
+<script>
+	// Event setup using a convenience method
+$( "p" ).click(function() {
+    console.log( "You clicked a paragraph!" );
+});
+
+	function showPop(transfer, event) {
+		var popup = document.getElementById("popover")
 		
-	</script>
+		cursorX = (window.innerwidth) + "px";
+		cursorY = (event.screenY - window.screenY) + "px";
+
+		alert("Y: " + event.screenY + " - " + window.screenY + " = " + window.innerHeight);
+
+
+		popup.style.top = window.screenY; 
+		popup.style.left = cursorX
+		
+		popup.innerHTML = transfer;
+		popup.style.visibility = "visible";
+		
+	}
+</script>
+
+
+
+<script id="calendarDesktopTemplate" type="text/x-jsrender">
+	
+	<p>{{:#index+1}}: <b>{{>event_name}}</b> (
+	{{if lat}}
+		<a href="javascript:codeAddress({{>lat}},{{>lng}});">Locate on map</a>)<br />
+	{{else address}}
+		<a href="javascript:codeStaticAddress('{{>address}}');">Locate on map</a>)<br />
+	{{else}}
+		[No Address Data Available])<br />
+	{{/if}}
+	{{>start_date}}<br />
+
+	<a onmousedown="showPop('{{>event_name}}', event)">Show it up here</a>
+	{{:description}}<br />
+
+
+
+
+	{{if hashtags}}
+		<p>
+	{{for hashtags}}
+		<span class="hashtags">{{:item}}</span>
+	{{/for}}
+		</p>
+	{{/if}}
+	</p>
+</script>
+
+
+
+
+<script id="codeAddysTemplate" type="text/x-jsrender">
+	
+</script>
 
 
 

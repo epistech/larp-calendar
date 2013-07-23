@@ -1,4 +1,4 @@
-#!/Users/timr/.rvm/rubies/ruby-1.9.3-p385/bin/ruby
+#!/Users/timrodriguez/.rvm/rubies/ruby-1.9.3-p385/bin/ruby
 
 require 'Date'
 require 'net/http'
@@ -17,7 +17,7 @@ class CalEntry
      	print "Creating a new ", self.name, "\n"
      	oldNew(*args)
     end 
-	attr_accessor(:DTSTART, :DTEND, :SUMMARY, :DESCRIPTION, :LOCATION, :LAT, :LNG)
+	attr_accessor(:DTSTART, :DTEND, :SUMMARY, :DESCRIPTION, :HASHTAGS, :LOCATION, :LAT, :LNG)
 
 =begin CalEntry
 	- Define an object that stores the relevant parts of calendar data
@@ -207,13 +207,13 @@ def calPrinter(cal_array)
 
 	if cal_array[i].DESCRIPTION != ""
 		export += %Q%,
-		"description":   "#{cal_array[i].DESCRIPTION.to_s.gsub(/\\n/, "; ").gsub(/\\,/, ",")}"%
+		"description":   "#{cal_array[i].DESCRIPTION.to_s.gsub(/\\n/, "<br>").gsub(/\\,/, ",")}"%
 	end
 
 	if cal_array[i].LOCATION != ""
 		tmp = JSONRetrieval(cal_array[i].LOCATION).to_s.delete('[]')
 		export += %Q%,
-		"address":   "#{cal_array[i].LOCATION.to_s.gsub(/\\n/, "; ").gsub(/\\,/, ",")}",
+		"address":   "#{cal_array[i].LOCATION.to_s.gsub(/\\n/, "<br>").gsub(/\\,/, ",")}",
 		"lat":   "#{tmp.split(/, /)[0]}",
 		"lng":   "#{tmp.split(/, /)[1]}"%
 end
