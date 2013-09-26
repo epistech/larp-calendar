@@ -142,13 +142,13 @@ $( "p" ).click(function() {
 
 <script id="calendarDesktopTemplate" type="text/x-jsrender">
 	
-	<p>{{:#index+1}}: <b>{{>event_name}}</b> (
+	<p>{{:#index+1}}: <b>{{>event_name}}</b>
 	{{if lat}}
-		<a href="javascript:codeAddress({{>lat}},{{>lng}});">Locate on map</a>)<br />
+		(<a href="javascript:codeAddress({{>lat}},{{>lng}});">Locate on map</a>)<br />
 	{{else address}}
-		<a href="javascript:codeStaticAddress('{{>address}}');">Locate on map</a>)<br />
+		(<a href="javascript:codeStaticAddress('{{>address}}');">Locate on map</a>)<br />
 	{{else}}
-		[No Address Data Available])<br />
+		(<em>No Address Data Available</em>)<br />
 	{{/if}}
 	{{>start_date}}<br />
 
