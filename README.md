@@ -1,12 +1,17 @@
 Global Larp Calendar
 =============
 
+At this time, the calendar consists of an "integration" with a Google Calendar account. Entries must be added to the calendar, but then are automatically added to this larpcalendar app via the updateJSON.rb ruby script (which is generally called via an asynchronous XHR request, triggered by loading the page at a maximum of once/hour so as not to overload gmaps request. 
+
 Ruby application pulls down and parses a Google Calendar .ICS file into a locally stored JSON file in order to redisplay content.
 
 Uses GoogleMaps API calls to display markers on a map.
 
 Ruby/JSRender scripts then do filtering on a cached JSON file.
 
+## Features
+- A virtually _unlimited_ repository of larp calendaring data, stored in a GCal, and downloaded/reorganized in a local JSON file.
+- First start of real location awareness. Awesome.
 
 ## Changelog
 Nothing explicit here so far... Still working in an pre-alpha status.
@@ -37,6 +42,14 @@ Nothing explicit here so far... Still working in an pre-alpha status.
 * nerdnyc.ics — raw ICS file has been used for testing the parsing engine.
 * parseLatLng.rb — extracts lat/lng values from a JSON file. — _deprecated?_
 
+## TODO
+- Investigate what the difference in lat/long values is for a given location radius.
+- Better understand the implementation location-awareness on the front-end.
+
+## Wish List
+- Sorted 
+- Defined regions for core area sorts, instead of just date.
+- Web-based location awareness that triggers this location sorting.
 
 ## Notes for future development
 
